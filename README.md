@@ -44,17 +44,18 @@ The project uses five source datasets:
 ---
 
 ## Architecture
+## Bronze Layer
 
-### Bronze Layer
+The Bronze layer ingests raw source files into the medallion architecture.
 
-Purpose:
-Store raw data exactly as received.
+Features:
 
-Activities:
-- Load source files
-- Preserve original structure
-- Add ingestion metadata
-- Log load activity
+- Reads source CSV files from Data/Raw
+- Adds source_file metadata column
+- Adds load_timestamp metadata column
+- Writes data to Data/Bronze
+- Generates ingestion audit logs
+- Records record counts and load status
 
 ### Silver Layer
 
