@@ -1,0 +1,6 @@
+﻿partner_id,partner_name,partner_type,province,onboard_date,status
+PART001,Ubuntu Credit,Credit Provider,Gauteng,2021-02-01,Active
+PART002,Mzanzi Retail Fin.,Retail Credit,Western Cape,2022-06-15,Active
+PART003,Lighthouse Loans,Microfinance,KwaZulu-Natal,2020-09-01,Active
+PART004,Khula Bank,Banking,Gauteng,2019-03-01,Active
+PART005,Nala Mobility Finance,Vehicle Finance,Gauteng,2023-01-10,Active
