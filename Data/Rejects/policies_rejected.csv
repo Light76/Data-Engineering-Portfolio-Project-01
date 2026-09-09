@@ -1,0 +1,24 @@
+policy_id,partner_id,product_id,inception_date,date_of_birth,gender,province,cover_amount,monthly_premium,policy_status,termination_date,source_file,load_timestamp,rejection_reason
+POL000057,PART003,,2026-04-23,1970-04-23,M,North West,50500.0,277.75,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL000058,PART001,,2025-08-31,1973-08-31,M,Western Cape,140200.0,869.24,Lapsed,2026-02-28,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL000140,PART001,PRD001,2026-02-05,1993-02-05,F,Gauteng,53000.0,-254.4,Active,,policies.csv,2026-09-03 13:30:17,Negative Monthly Premium; 
+POL000347,PART001,,2025-08-26,1999-08-26,F,Gauteng,65100.0,312.48,Cancelled,2026-01-26,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL000461,PART002,,2026-02-25,1977-02-25,F,KwaZulu-Natal,100000.0,178.0,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL000487,PART002,,2025-08-01,1989-08-01,F,Limpopo,100000.0,178.0,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL000836,PART005,PRD009,2025-12-22,1965-12-22,F,KwaZulu-Natal,163200.0,-685.44,Active,,policies.csv,2026-09-03 13:30:17,Negative Monthly Premium; 
+POL000872,PART001,PRD001,2025-12-01,2005-12-01,M,Gauteng,41100.0,-197.28,Active,,policies.csv,2026-09-03 13:30:17,Negative Monthly Premium; 
+POL000894,PART004,,2025-10-06,1970-10-06,F,KwaZulu-Natal,75000.0,119.0,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL000964,PART003,,2025-11-17,1991-11-17,F,Gauteng,133500.0,881.1,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL000979,PART001,,2025-10-03,1982-10-03,F,Mpumalanga,23200.0,111.36,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL001146,PART004,PRD008,2025-10-02,1966-10-02,M,Gauteng,75000.0,-119.0,Active,,policies.csv,2026-09-03 13:30:17,Negative Monthly Premium; 
+POL001323,PART001,,2025-09-19,1984-09-19,F,Gauteng,22500.0,108.0,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL001432,PART002,,2025-07-09,2003-07-09,F,Gauteng,25000.0,37.25,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL001639,PART004,,2025-12-11,1985-12-11,M,KwaZulu-Natal,53700.0,263.13,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL001642,PART001,PRD001,2025-10-06,1982-10-06,M,North West,39700.0,-190.56,Active,,policies.csv,2026-09-03 13:30:17,Negative Monthly Premium; 
+POL001783,PART003,,2025-08-22,1979-08-22,F,Gauteng,164900.0,1088.34,Lapsed,2026-02-22,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL001801,PART001,,2025-08-30,1984-08-30,M,Limpopo,42200.0,202.56,Lapsed,2026-01-28,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL001878,PART003,PRD005,2025-08-14,1969-08-14,F,Eastern Cape,26000.0,-143.0,Active,,policies.csv,2026-09-03 13:30:17,Negative Monthly Premium; 
+POL001950,PART004,PRD008,2025-12-08,1986-12-08,F,Mpumalanga,100000.0,-158.67,Active,,policies.csv,2026-09-03 13:30:17,Negative Monthly Premium; 
+POL002064,PART002,PRD003,2026-03-17,2002-03-17,F,Western Cape,100000.0,-178.0,Active,,policies.csv,2026-09-03 13:30:17,Negative Monthly Premium; 
+POL002192,PART004,,2026-02-17,2001-02-17,M,KwaZulu-Natal,25000.0,39.67,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
+POL002243,PART004,,2026-02-27,1978-02-27,F,KwaZulu-Natal,50000.0,79.33,Active,,policies.csv,2026-09-03 13:30:17,Missing Product ID; 
