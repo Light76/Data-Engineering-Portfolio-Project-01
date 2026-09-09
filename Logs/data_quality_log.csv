@@ -1,0 +1,2 @@
+run_timestamp,file_name,rows_checked,duplicate_issues,null_issues,validation_issues,total_issues,quality_score,status
+2026-09-09 10:23:31.814909,claims.csv,407,10,0,6,16,96.07,FAIL
