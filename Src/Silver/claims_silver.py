@@ -36,6 +36,22 @@ df["claim_outcome"] = (
     .str.title()
 )
 
+df["claim_type"] = (
+    df["claim_type"]
+    .astype(str)
+    .str.strip()
+    .str.title()
+)
+
+# ============================================
+# Convert Date Columns
+# ============================================
+
+df["claim_date"] = pd.to_datetime(
+    df["claim_date"],
+    errors="coerce"
+)
+
 # ============================================
 # Remove Exact Duplicates
 # ============================================
@@ -49,7 +65,7 @@ duplicates_removed = (
 )
 
 # ============================================
-# Rejected Records
+# Valid Values
 # ============================================
 
 valid_outcomes = [
@@ -57,6 +73,16 @@ valid_outcomes = [
     "Declined",
     "Under Investigation"
 ]
+
+valid_claim_types = [
+    "Death",
+    "Disability",
+    "Retrenchment"
+]
+
+# ============================================
+# Rejection Logic
+# ============================================
 
 reject_mask = (
 
@@ -68,18 +94,40 @@ reject_mask = (
 
     |
 
+    df["claim_date"].isnull()
+
+    |
+
+    ~df["claim_type"].isin(
+        valid_claim_types
+    )
+
+    |
+
     ~df["claim_outcome"].isin(
         valid_outcomes
     )
 
+    |
+
+    (df["claim_amount"] < 0)
+
+    |
+
+    (df["paid_amount"] < 0)
+
 )
+
+# ============================================
+# Rejected Records
+# ============================================
 
 rejected_df = df[
     reject_mask
 ].copy()
 
 # ============================================
-# Add Rejection Reason
+# Rejection Reasons
 # ============================================
 
 rejected_df["rejection_reason"] = ""
@@ -95,11 +143,33 @@ rejected_df.loc[
 ] += "Missing Policy ID; "
 
 rejected_df.loc[
+    rejected_df["claim_date"].isnull(),
+    "rejection_reason"
+] += "Invalid Or Missing Claim Date; "
+
+rejected_df.loc[
+    ~rejected_df["claim_type"].isin(
+        valid_claim_types
+    ),
+    "rejection_reason"
+] += "Invalid Claim Type; "
+
+rejected_df.loc[
     ~rejected_df["claim_outcome"].isin(
         valid_outcomes
     ),
     "rejection_reason"
 ] += "Invalid Claim Outcome; "
+
+rejected_df.loc[
+    rejected_df["claim_amount"] < 0,
+    "rejection_reason"
+] += "Negative Claim Amount; "
+
+rejected_df.loc[
+    rejected_df["paid_amount"] < 0,
+    "rejection_reason"
+] += "Negative Paid Amount; "
 
 # ============================================
 # Clean Records
@@ -127,7 +197,7 @@ rejected_df.to_csv(
 # Metrics
 # ============================================
 
-print("\nSILVER PIPELINE RESULTS")
+print("\nCLAIMS SILVER RESULTS")
 
 print(
     f"Duplicates Removed: "

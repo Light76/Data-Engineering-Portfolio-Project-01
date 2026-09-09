@@ -5,14 +5,14 @@ from pathlib import Path
 # Paths
 # ============================================
 
-BRONZE_PATH = Path("Data/Bronze/policies.csv")
+BRONZE_PATH = Path("Data/Bronze/products.csv")
 
 SILVER_PATH = Path(
-    "Data/Silver/policies_clean.csv"
+    "Data/Silver/products_clean.csv"
 )
 
 REJECT_PATH = Path(
-    "Data/Rejects/policies_rejected.csv"
+    "Data/Rejects/products_rejected.csv"
 )
 
 # ============================================
@@ -26,50 +26,15 @@ rows_before = len(df)
 print(f"Rows Loaded: {rows_before}")
 
 # ============================================
-# Standardize Text Fields
+# Standardize Product Type
 # ============================================
 
-df["policy_status"] = (
-    df["policy_status"]
+df["product_type"] = (
+    df["product_type"]
     .astype(str)
     .str.strip()
     .str.title()
 )
-
-df["gender"] = (
-    df["gender"]
-    .astype(str)
-    .str.strip()
-    .str.upper()
-)
-
-# ============================================
-# Standardize Gender Values
-# ============================================
-
-df["gender"] = df["gender"].replace({
-    "MALE": "M",
-    "FEMALE": "F"
-})
-
-# ============================================
-# Convert Date Columns
-# ============================================
-
-date_columns = [
-    "inception_date",
-    "date_of_birth",
-    "termination_date"
-]
-
-for column in date_columns:
-
-    if column in df.columns:
-
-        df[column] = pd.to_datetime(
-            df[column],
-            errors="coerce"
-        )
 
 # ============================================
 # Remove Exact Duplicates
@@ -84,18 +49,13 @@ duplicates_removed = (
 )
 
 # ============================================
-# Valid Values
+# Valid Product Types
 # ============================================
 
-valid_genders = [
-    "M",
-    "F"
-]
-
-valid_statuses = [
-    "Active",
-    "Lapsed",
-    "Cancelled"
+valid_product_types = [
+    "Credit Life",
+    "Funeral",
+    "Disability"
 ]
 
 # ============================================
@@ -104,7 +64,11 @@ valid_statuses = [
 
 reject_mask = (
 
-    df["policy_id"].isnull()
+    df["product_id"].isnull()
+
+    |
+
+    df["product_name"].isnull()
 
     |
 
@@ -112,39 +76,18 @@ reject_mask = (
 
     |
 
-    df["product_id"].isnull()
-
-    |
-
-    df["inception_date"].isnull()
-
-    |
-
-    df["date_of_birth"].isnull()
-
-    |
-
-    df["province"].isnull()
-
-    |
-
-    ~df["gender"].isin(
-        valid_genders
+    ~df["product_type"].isin(
+        valid_product_types
     )
 
     |
 
-    ~df["policy_status"].isin(
-        valid_statuses
-    )
+    (df["max_cover"] < 0)
 
     |
 
-    (df["cover_amount"] < 0)
+    (df["rate_or_base_premium"] < 0)
 
-    |
-
-    (df["monthly_premium"] < 0)
 )
 
 # ============================================
@@ -162,9 +105,14 @@ rejected_df = df[
 rejected_df["rejection_reason"] = ""
 
 rejected_df.loc[
-    rejected_df["policy_id"].isnull(),
+    rejected_df["product_id"].isnull(),
     "rejection_reason"
-] += "Missing Policy ID; "
+] += "Missing Product ID; "
+
+rejected_df.loc[
+    rejected_df["product_name"].isnull(),
+    "rejection_reason"
+] += "Missing Product Name; "
 
 rejected_df.loc[
     rejected_df["partner_id"].isnull(),
@@ -172,48 +120,21 @@ rejected_df.loc[
 ] += "Missing Partner ID; "
 
 rejected_df.loc[
-    rejected_df["product_id"].isnull(),
-    "rejection_reason"
-] += "Missing Product ID; "
-
-rejected_df.loc[
-    rejected_df["inception_date"].isnull(),
-    "rejection_reason"
-] += "Invalid Or Missing Inception Date; "
-
-rejected_df.loc[
-    rejected_df["date_of_birth"].isnull(),
-    "rejection_reason"
-] += "Invalid Or Missing Date Of Birth; "
-
-rejected_df.loc[
-    rejected_df["province"].isnull(),
-    "rejection_reason"
-] += "Missing Province; "
-
-rejected_df.loc[
-    ~rejected_df["gender"].isin(
-        valid_genders
+    ~rejected_df["product_type"].isin(
+        valid_product_types
     ),
     "rejection_reason"
-] += "Invalid Gender; "
+] += "Invalid Product Type; "
 
 rejected_df.loc[
-    ~rejected_df["policy_status"].isin(
-        valid_statuses
-    ),
+    rejected_df["max_cover"] < 0,
     "rejection_reason"
-] += "Invalid Policy Status; "
+] += "Negative Max Cover; "
 
 rejected_df.loc[
-    rejected_df["cover_amount"] < 0,
+    rejected_df["rate_or_base_premium"] < 0,
     "rejection_reason"
-] += "Negative Cover Amount; "
-
-rejected_df.loc[
-    rejected_df["monthly_premium"] < 0,
-    "rejection_reason"
-] += "Negative Monthly Premium; "
+] += "Negative Base Premium; "
 
 # ============================================
 # Clean Records
@@ -241,7 +162,7 @@ rejected_df.to_csv(
 # Metrics
 # ============================================
 
-print("\nPOLICIES SILVER RESULTS")
+print("\nPRODUCTS SILVER RESULTS")
 
 print(
     f"Duplicates Removed: "

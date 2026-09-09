@@ -5,14 +5,14 @@ from pathlib import Path
 # Paths
 # ============================================
 
-BRONZE_PATH = Path("Data/Bronze/policies.csv")
+BRONZE_PATH = Path("Data/Bronze/premiums.csv")
 
 SILVER_PATH = Path(
-    "Data/Silver/policies_clean.csv"
+    "Data/Silver/premiums_clean.csv"
 )
 
 REJECT_PATH = Path(
-    "Data/Rejects/policies_rejected.csv"
+    "Data/Rejects/premiums_rejected.csv"
 )
 
 # ============================================
@@ -26,40 +26,23 @@ rows_before = len(df)
 print(f"Rows Loaded: {rows_before}")
 
 # ============================================
-# Standardize Text Fields
+# Standardize Payment Status
 # ============================================
 
-df["policy_status"] = (
-    df["policy_status"]
+df["payment_status"] = (
+    df["payment_status"]
     .astype(str)
     .str.strip()
     .str.title()
 )
-
-df["gender"] = (
-    df["gender"]
-    .astype(str)
-    .str.strip()
-    .str.upper()
-)
-
-# ============================================
-# Standardize Gender Values
-# ============================================
-
-df["gender"] = df["gender"].replace({
-    "MALE": "M",
-    "FEMALE": "F"
-})
 
 # ============================================
 # Convert Date Columns
 # ============================================
 
 date_columns = [
-    "inception_date",
-    "date_of_birth",
-    "termination_date"
+    "premium_month",
+    "payment_date"
 ]
 
 for column in date_columns:
@@ -84,18 +67,13 @@ duplicates_removed = (
 )
 
 # ============================================
-# Valid Values
+# Valid Statuses
 # ============================================
 
-valid_genders = [
-    "M",
-    "F"
-]
-
 valid_statuses = [
-    "Active",
-    "Lapsed",
-    "Cancelled"
+    "Paid",
+    "Partial",
+    "Failed"
 ]
 
 # ============================================
@@ -104,47 +82,26 @@ valid_statuses = [
 
 reject_mask = (
 
+    df["transaction_id"].isnull()
+
+    |
+
     df["policy_id"].isnull()
 
     |
 
-    df["partner_id"].isnull()
-
-    |
-
-    df["product_id"].isnull()
-
-    |
-
-    df["inception_date"].isnull()
-
-    |
-
-    df["date_of_birth"].isnull()
-
-    |
-
-    df["province"].isnull()
-
-    |
-
-    ~df["gender"].isin(
-        valid_genders
-    )
-
-    |
-
-    ~df["policy_status"].isin(
+    ~df["payment_status"].isin(
         valid_statuses
     )
 
     |
 
-    (df["cover_amount"] < 0)
+    (df["premium_due"] < 0)
 
     |
 
-    (df["monthly_premium"] < 0)
+    (df["premium_paid"] < 0)
+
 )
 
 # ============================================
@@ -162,58 +119,31 @@ rejected_df = df[
 rejected_df["rejection_reason"] = ""
 
 rejected_df.loc[
+    rejected_df["transaction_id"].isnull(),
+    "rejection_reason"
+] += "Missing Transaction ID; "
+
+rejected_df.loc[
     rejected_df["policy_id"].isnull(),
     "rejection_reason"
 ] += "Missing Policy ID; "
 
 rejected_df.loc[
-    rejected_df["partner_id"].isnull(),
-    "rejection_reason"
-] += "Missing Partner ID; "
-
-rejected_df.loc[
-    rejected_df["product_id"].isnull(),
-    "rejection_reason"
-] += "Missing Product ID; "
-
-rejected_df.loc[
-    rejected_df["inception_date"].isnull(),
-    "rejection_reason"
-] += "Invalid Or Missing Inception Date; "
-
-rejected_df.loc[
-    rejected_df["date_of_birth"].isnull(),
-    "rejection_reason"
-] += "Invalid Or Missing Date Of Birth; "
-
-rejected_df.loc[
-    rejected_df["province"].isnull(),
-    "rejection_reason"
-] += "Missing Province; "
-
-rejected_df.loc[
-    ~rejected_df["gender"].isin(
-        valid_genders
-    ),
-    "rejection_reason"
-] += "Invalid Gender; "
-
-rejected_df.loc[
-    ~rejected_df["policy_status"].isin(
+    ~rejected_df["payment_status"].isin(
         valid_statuses
     ),
     "rejection_reason"
-] += "Invalid Policy Status; "
+] += "Invalid Payment Status; "
 
 rejected_df.loc[
-    rejected_df["cover_amount"] < 0,
+    rejected_df["premium_due"] < 0,
     "rejection_reason"
-] += "Negative Cover Amount; "
+] += "Negative Premium Due; "
 
 rejected_df.loc[
-    rejected_df["monthly_premium"] < 0,
+    rejected_df["premium_paid"] < 0,
     "rejection_reason"
-] += "Negative Monthly Premium; "
+] += "Negative Premium Paid; "
 
 # ============================================
 # Clean Records
@@ -241,7 +171,7 @@ rejected_df.to_csv(
 # Metrics
 # ============================================
 
-print("\nPOLICIES SILVER RESULTS")
+print("\nPREMIUMS SILVER RESULTS")
 
 print(
     f"Duplicates Removed: "
