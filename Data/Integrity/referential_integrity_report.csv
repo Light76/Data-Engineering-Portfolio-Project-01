@@ -1,0 +1,2 @@
+claims_checked,orphan_claims,premiums_checked,orphan_premiums,policies_checked,orphan_policy_products,orphan_policy_partners,issues_caused_by_rejected_silver_records,issues_caused_by_missing_source_records,total_integrity_issues,status
+391,17,17251,236,2366,9,0,238,24,262,FAIL
