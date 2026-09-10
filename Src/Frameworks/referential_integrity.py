@@ -25,7 +25,9 @@ PARTNERS_PATH = Path(
     "Data/Silver/partners_clean.csv"
 )
 
+# ============================================
 # Rejected Data
+# ============================================
 
 REJECTED_POLICIES_PATH = Path(
     "Data/Rejects/policies_rejected.csv"
@@ -39,10 +41,17 @@ REJECTED_PARTNERS_PATH = Path(
     "Data/Rejects/partners_rejected.csv"
 )
 
+# ============================================
 # Output Folder
+# ============================================
 
 INTEGRITY_PATH = Path(
     "Data/Integrity"
+)
+
+INTEGRITY_PATH.mkdir(
+    parents=True,
+    exist_ok=True
 )
 
 # ============================================
@@ -283,33 +292,52 @@ rejected_silver_issues = (
 
 )
 
-source_data_issues = (
-
-    len(orphan_claims)
-    +
-    len(orphan_premiums)
-    +
-    len(orphan_policy_products)
-    +
-    len(orphan_policy_partners)
-
-) - rejected_silver_issues
-
-# ============================================
-# Integrity Report
-# ============================================
-
 total_issues = (
 
     len(orphan_claims)
+
     +
+
     len(orphan_premiums)
+
     +
+
     len(orphan_policy_products)
+
     +
+
     len(orphan_policy_partners)
 
 )
+
+source_data_issues = (
+    total_issues
+    - rejected_silver_issues
+)
+
+# ============================================
+# Integrity Investigation Metrics
+# ============================================
+
+root_claims_policies = len(
+    orphan_claims
+)
+
+root_premiums_policies = len(
+    orphan_premiums
+)
+
+root_policies_products = len(
+    orphan_policy_products
+)
+
+root_policies_partners = len(
+    orphan_policy_partners
+)
+
+# ============================================
+# Report
+# ============================================
 
 status = "PASS"
 
@@ -322,22 +350,22 @@ report_df = pd.DataFrame([
             len(claims_df),
 
         "orphan_claims":
-            len(orphan_claims),
+            root_claims_policies,
 
         "premiums_checked":
             len(premiums_df),
 
         "orphan_premiums":
-            len(orphan_premiums),
+            root_premiums_policies,
 
         "policies_checked":
             len(policies_df),
 
         "orphan_policy_products":
-            len(orphan_policy_products),
+            root_policies_products,
 
         "orphan_policy_partners":
-            len(orphan_policy_partners),
+            root_policies_partners,
 
         "issues_caused_by_rejected_silver_records":
             rejected_silver_issues,
@@ -364,7 +392,7 @@ report_df.to_csv(
 # ============================================
 
 print(
-    "\nREFERENTIAL INTEGRITY REPORT V1.1"
+    "\nREFERENTIAL INTEGRITY REPORT V1.2"
 )
 
 print("=" * 60)
@@ -374,7 +402,7 @@ print(
 )
 
 print(
-    f"Orphan Claims: {len(orphan_claims)}"
+    f"Orphan Claims: {root_claims_policies}"
 )
 
 print()
@@ -384,7 +412,7 @@ print(
 )
 
 print(
-    f"Orphan Premiums: {len(orphan_premiums)}"
+    f"Orphan Premiums: {root_premiums_policies}"
 )
 
 print()
@@ -394,11 +422,11 @@ print(
 )
 
 print(
-    f"Missing Products: {len(orphan_policy_products)}"
+    f"Missing Products: {root_policies_products}"
 )
 
 print(
-    f"Missing Partners: {len(orphan_policy_partners)}"
+    f"Missing Partners: {root_policies_partners}"
 )
 
 print()
@@ -421,6 +449,60 @@ print(
 
 print(
     f"Status: {status}"
+)
+
+print("=" * 60)
+
+print()
+
+print(
+    "INTEGRITY INVESTIGATION SUMMARY"
+)
+
+print("=" * 60)
+
+print(
+    f"Integrity Issues: {total_issues}"
+)
+
+print()
+
+print(
+    f"Issues Caused By Rejected Silver Records: "
+    f"{rejected_silver_issues}"
+)
+
+print()
+
+print(
+    f"Issues Caused By Missing Source Records: "
+    f"{source_data_issues}"
+)
+
+print()
+
+print(
+    "Root Cause Distribution:"
+)
+
+print(
+    f"- Claims -> Policies: "
+    f"{root_claims_policies}"
+)
+
+print(
+    f"- Premiums -> Policies: "
+    f"{root_premiums_policies}"
+)
+
+print(
+    f"- Policies -> Products: "
+    f"{root_policies_products}"
+)
+
+print(
+    f"- Policies -> Partners: "
+    f"{root_policies_partners}"
 )
 
 print("=" * 60)
