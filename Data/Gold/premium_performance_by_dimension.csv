@@ -1,0 +1,946 @@
+month,partner_id,partner_name,product_id,product_name,product_type,province,premium_transactions,paid_transactions,failed_transactions,partial_transactions,total_premium_due,total_premium_collected,outstanding_premium,collection_rate_pct
+2025-07-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,1,1,0,0,243.84,243.84,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,5,5,0,0,1230.72,1230.72,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,8,7,1,0,1836.0,1583.04,252.96,86.22
+2025-07-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,5,5,0,0,1088.64,1088.64,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,1,1,0,0,101.76,101.76,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,1,1,0,0,165.12,165.12,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,4,4,0,0,947.52,947.52,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,1,0,1,0,792.98,0.0,792.98,0.0
+2025-07-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,8,7,0,1,5805.68,5590.07,215.61,96.29
+2025-07-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,4,4,0,0,2474.42,2474.42,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,1,1,0,0,764.46,764.46,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,2,2,0,0,1237.52,1237.52,0.0,100.0
+2025-07-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,7,7,0,0,4127.96,4127.96,0.0,100.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,2,2,0,0,89.0,89.0,0.0,100.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,2,1,1,0,178.0,89.0,89.0,50.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,10,9,1,0,1468.5,1379.5,89.0,93.94
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,5,5,0,0,667.5,667.5,0.0,100.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,2,2,0,0,89.0,89.0,0.0,100.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,8,5,2,1,845.5,634.12,211.38,75.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,1,1,0,0,74.5,74.5,0.0,100.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,3,2,1,0,335.25,298.0,37.25,88.89
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,11,11,0,0,894.0,894.0,0.0,100.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,4,3,0,1,335.25,325.94,9.31,97.22
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,1,0,1,0,37.25,0.0,37.25,0.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,2,1,1,0,186.25,37.25,149.0,20.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,2,1,1,0,74.5,37.25,37.25,50.0
+2025-07-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,2,2,0,0,149.0,149.0,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,3,3,0,0,1049.4,1049.4,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,14,14,0,0,4922.5,4922.5,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,1,1,0,0,233.2,233.2,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,2,2,0,0,978.45,978.45,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,1,1,0,0,267.85,267.85,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,1,1,0,0,481.25,481.25,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,1,1,0,0,287.65,287.65,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,2,2,0,0,2059.2,2059.2,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,2,2,0,0,1890.24,1890.24,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,3,3,0,0,1413.72,1413.72,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,3,3,0,0,2610.96,2610.96,0.0,100.0
+2025-07-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,2,1,1,0,1595.22,421.74,1173.48,26.44
+2025-07-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,4,3,1,0,4107.18,3053.82,1053.36,74.35
+2025-07-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,2,2,0,0,1667.16,1667.16,0.0,100.0
+2025-07-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,3,2,1,0,1514.1,688.45,825.65,45.47
+2025-07-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,1,1,0,0,513.52,513.52,0.0,100.0
+2025-07-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,15,14,1,0,8041.39,7281.4,759.99,90.55
+2025-07-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,5,4,0,1,2400.02,2273.84,126.18,94.74
+2025-07-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,2,2,0,0,1337.21,1337.21,0.0,100.0
+2025-07-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,2,1,1,0,1421.0,779.1,641.9,54.83
+2025-07-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,2,2,0,0,1407.77,1407.77,0.0,100.0
+2025-07-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,8,5,1,2,5208.21,4174.07,1034.14,80.14
+2025-07-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,1,1,0,0,158.67,158.67,0.0,100.0
+2025-07-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,2,2,0,0,198.34,198.34,0.0,100.0
+2025-07-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,13,11,0,2,1309.01,1190.0,119.01,90.91
+2025-07-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,4,4,0,0,317.33,317.33,0.0,100.0
+2025-07-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,1,0,1,0,39.67,0.0,39.67,0.0
+2025-07-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,1,1,0,0,119.0,119.0,0.0,100.0
+2025-07-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,5,5,0,0,595.01,595.01,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,1,1,0,0,1084.02,1084.02,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,2,2,0,0,1101.24,1101.24,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,10,8,2,0,7365.54,5846.82,1518.72,79.38
+2025-07-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,4,3,0,1,2252.46,2040.78,211.68,90.6
+2025-07-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,1,1,0,0,742.14,742.14,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,2,2,0,0,1703.1,1703.1,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,3,3,0,0,2751.84,2751.84,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,4,3,1,0,3720.36,3065.58,654.78,82.4
+2025-07-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,1,1,0,0,366.8,366.8,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,8,7,1,0,4144.7,3455.9,688.8,83.38
+2025-07-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,1,1,0,0,457.8,457.8,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,1,1,0,0,560.7,560.7,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,2,2,0,0,1507.45,1507.45,0.0,100.0
+2025-07-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,5,5,0,0,2297.4,2297.4,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,3,3,0,0,800.64,800.64,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,3,3,0,0,595.2,595.2,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,14,13,1,0,3336.0,3048.96,287.04,91.4
+2025-08-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,17,15,0,2,4217.76,4039.8,177.96,95.78
+2025-08-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,6,5,1,0,1370.4,1222.56,147.84,89.21
+2025-08-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,6,5,1,0,1281.6,984.48,297.12,76.82
+2025-08-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,1,1,0,0,165.12,165.12,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,14,12,2,0,3262.08,2789.28,472.8,85.51
+2025-08-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,5,5,0,0,2892.3,2892.3,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,2,2,0,0,1346.02,1346.02,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,14,14,0,0,8787.88,8787.88,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,10,10,0,0,5731.28,5731.28,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,1,0,1,0,764.46,0.0,764.46,0.0
+2025-08-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,1,1,0,0,727.26,727.26,0.0,100.0
+2025-08-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,5,4,1,0,3205.4,2512.24,693.16,78.38
+2025-08-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,13,12,1,0,6797.06,6487.68,309.38,95.45
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,2,2,0,0,89.0,89.0,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,2,2,0,0,178.0,178.0,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,22,21,1,0,2892.5,2714.5,178.0,93.85
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,9,9,0,0,1157.0,1157.0,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,1,1,0,0,133.5,133.5,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,6,6,0,0,445.0,445.0,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,3,3,0,0,178.0,178.0,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,15,15,0,0,1735.5,1735.5,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,4,3,1,0,409.75,335.25,74.5,81.82
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,3,3,0,0,335.25,335.25,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,17,16,0,1,1527.25,1471.38,55.87,96.34
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,6,6,0,0,596.0,596.0,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,2,2,0,0,111.75,111.75,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,5,5,0,0,521.5,521.5,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,2,2,0,0,74.5,74.5,0.0,100.0
+2025-08-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,5,5,0,0,409.75,409.75,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,3,3,0,0,1049.4,1049.4,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,1,1,0,0,369.05,369.05,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,19,19,0,0,6786.45,6786.45,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,4,4,0,0,1423.95,1423.95,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,4,4,0,0,1494.9,1494.9,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,1,1,0,0,267.85,267.85,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,3,2,1,0,1149.5,793.65,355.85,69.04
+2025-08-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,5,5,0,0,1842.5,1842.5,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,3,3,0,0,3022.8,3022.8,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,2,2,0,0,1890.24,1890.24,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,6,6,0,0,3608.22,3608.22,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,5,5,0,0,3830.64,3830.64,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,3,3,0,0,2374.68,2374.68,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,3,3,0,0,2346.3,2346.3,0.0,100.0
+2025-08-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,6,5,0,1,6055.5,5528.82,526.68,91.3
+2025-08-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,5,4,1,0,4988.94,4290.0,698.94,85.99
+2025-08-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,4,4,0,0,1941.38,1941.38,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,3,3,0,0,1922.76,1922.76,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,29,29,0,0,16009.28,16009.28,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,10,10,0,0,5092.08,5092.08,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,4,4,0,0,2882.67,2882.67,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,3,3,0,0,1711.08,1711.08,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,3,3,0,0,1653.75,1653.75,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,10,10,0,0,6153.42,6153.42,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,3,2,1,0,317.34,198.34,119.0,62.5
+2025-08-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,4,4,0,0,476.01,476.01,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,17,17,0,0,1864.35,1864.35,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,7,5,2,0,595.0,436.33,158.67,73.33
+2025-08-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,2,1,1,0,79.34,39.67,39.67,50.0
+2025-08-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,3,3,0,0,317.34,317.34,0.0,100.0
+2025-08-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,6,6,0,0,674.34,674.34,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,2,2,0,0,1598.1,1598.1,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,2,2,0,0,1101.24,1101.24,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,17,17,0,0,12915.0,12915.0,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,5,5,0,0,3373.44,3373.44,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,3,3,0,0,2014.74,2014.74,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,2,2,0,0,1703.1,1703.1,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,4,4,0,0,3344.04,3344.04,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,8,8,0,0,6895.14,6895.14,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,4,4,0,0,2679.6,2679.6,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,18,17,1,0,9745.4,9375.1,370.3,96.2
+2025-08-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,3,3,0,0,1206.1,1206.1,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,4,4,0,0,1805.65,1805.65,0.0,100.0
+2025-08-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,2,1,1,0,1507.45,821.1,686.35,54.47
+2025-08-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,11,10,0,1,5324.2,5165.83,158.37,97.03
+2025-09-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,6,6,0,0,1610.88,1610.88,0.0,100.0
+2025-09-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,3,3,0,0,595.2,595.2,0.0,100.0
+2025-09-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,21,18,1,2,4953.6,4471.68,481.92,90.27
+2025-09-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,22,21,1,0,4944.0,4755.84,188.16,96.19
+2025-09-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,7,7,0,0,1481.28,1481.28,0.0,100.0
+2025-09-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,7,7,0,0,1554.24,1554.24,0.0,100.0
+2025-09-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,3,2,1,0,599.04,330.72,268.32,55.21
+2025-09-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,19,17,2,0,4568.64,4125.6,443.04,90.3
+2025-09-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,6,4,2,0,3762.16,2685.22,1076.94,71.37
+2025-09-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,4,4,0,0,2473.8,2473.8,0.0,100.0
+2025-09-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,19,17,1,1,12229.5,11082.19,1147.31,90.62
+2025-09-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,16,15,1,0,9286.36,8482.22,804.14,91.34
+2025-09-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,1,1,0,0,764.46,764.46,0.0,100.0
+2025-09-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,2,2,0,0,1522.72,1522.72,0.0,100.0
+2025-09-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,7,7,0,0,4055.42,4055.42,0.0,100.0
+2025-09-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,19,16,2,1,10579.68,9420.13,1159.55,89.04
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,2,1,1,0,89.0,44.5,44.5,50.0
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,6,4,1,1,623.0,511.75,111.25,82.14
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,27,25,1,1,3604.5,3382.0,222.5,93.83
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,13,13,0,0,1780.0,1780.0,0.0,100.0
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,4,3,1,0,534.0,356.0,178.0,66.67
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,8,7,1,0,667.5,489.5,178.0,73.33
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,4,4,0,0,267.0,267.0,0.0,100.0
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,21,20,1,0,2314.0,2180.5,133.5,94.23
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,6,5,1,0,596.0,484.25,111.75,81.25
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,4,2,2,0,484.25,186.25,298.0,38.46
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,22,20,0,2,2048.75,2011.5,37.25,98.18
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,9,9,0,0,856.75,856.75,0.0,100.0
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,5,4,1,0,447.0,298.0,149.0,66.67
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,7,7,0,0,633.25,633.25,0.0,100.0
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,2,2,0,0,74.5,74.5,0.0,100.0
+2025-09-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,9,9,0,0,782.25,782.25,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,5,5,0,0,1833.15,1833.15,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,2,2,0,0,580.25,580.25,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,25,21,4,0,8298.4,7041.1,1257.3,84.85
+2025-09-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,11,11,0,0,4292.2,4292.2,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,5,3,1,1,2033.9,1364.28,669.62,67.08
+2025-09-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,3,2,0,1,906.95,787.05,119.9,86.78
+2025-09-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,5,3,1,1,1689.6,1118.56,571.04,66.2
+2025-09-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,11,11,0,0,3758.15,3758.15,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,7,7,0,0,6774.24,6774.24,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,2,2,0,0,1890.24,1890.24,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,16,15,1,0,13283.82,12654.18,629.64,95.26
+2025-09-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,11,11,0,0,9327.12,9327.12,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,8,6,2,0,6411.9,4878.06,1533.84,76.08
+2025-09-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,5,5,0,0,3388.44,3388.44,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,6,6,0,0,6055.5,6055.5,0.0,100.0
+2025-09-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,6,6,0,0,6087.18,6087.18,0.0,100.0
+2025-09-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,7,6,1,0,3882.27,3454.99,427.28,88.99
+2025-09-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,5,4,1,0,3344.25,2871.4,472.85,85.86
+2025-09-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,37,34,1,2,21070.98,20515.2,555.78,97.36
+2025-09-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,17,16,1,0,8850.38,8141.84,708.54,91.99
+2025-09-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,6,5,0,1,4409.51,4181.66,227.85,94.83
+2025-09-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,4,4,0,0,2166.78,2166.78,0.0,100.0
+2025-09-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,4,3,1,0,2240.77,1994.79,245.98,89.02
+2025-09-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,17,16,1,0,10350.27,9629.48,720.79,93.04
+2025-09-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,6,6,0,0,674.35,674.35,0.0,100.0
+2025-09-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,4,4,0,0,476.01,476.01,0.0,100.0
+2025-09-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,22,20,1,1,2380.02,2161.85,218.17,90.83
+2025-09-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,13,13,0,0,1229.67,1229.67,0.0,100.0
+2025-09-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,6,6,0,0,357.02,357.02,0.0,100.0
+2025-09-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,2,2,0,0,238.0,238.0,0.0,100.0
+2025-09-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,6,6,0,0,515.67,515.67,0.0,100.0
+2025-09-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,12,12,0,0,1190.0,1190.0,0.0,100.0
+2025-09-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,3,2,1,0,2659.44,2145.36,514.08,80.67
+2025-09-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,2,2,0,0,1101.24,1101.24,0.0,100.0
+2025-09-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,23,21,2,0,16527.0,15008.28,1518.72,90.81
+2025-09-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,9,8,1,0,5535.6,4414.62,1120.98,79.75
+2025-09-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,6,5,1,0,4491.9,3676.68,815.22,81.85
+2025-09-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,5,5,0,0,3927.0,3927.0,0.0,100.0
+2025-09-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,4,3,1,0,3344.04,2751.84,592.2,82.29
+2025-09-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,13,13,0,0,12016.2,12016.2,0.0,100.0
+2025-09-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,1,1,0,0,816.2,816.2,0.0,100.0
+2025-09-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,4,3,0,1,2679.6,2272.9,406.7,84.82
+2025-09-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,24,23,1,0,13328.0,12679.1,648.9,95.13
+2025-09-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,7,7,0,0,3872.05,3872.05,0.0,100.0
+2025-09-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,6,6,0,0,3347.4,3347.4,0.0,100.0
+2025-09-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,4,4,0,0,2922.15,2922.15,0.0,100.0
+2025-09-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,14,14,0,0,6530.3,6530.3,0.0,100.0
+2025-10-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,10,8,2,0,2436.0,1956.96,479.04,80.33
+2025-10-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,4,3,1,0,889.92,728.16,161.76,81.82
+2025-10-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,27,25,2,0,6167.04,5687.52,479.52,92.22
+2025-10-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,23,20,3,0,5079.84,4427.04,652.8,87.15
+2025-10-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,9,9,0,0,1997.76,1997.76,0.0,100.0
+2025-10-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,8,7,1,0,1721.76,1554.24,167.52,90.27
+2025-10-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,5,5,0,0,898.08,898.08,0.0,100.0
+2025-10-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,26,23,2,1,5714.4,5326.32,388.08,93.21
+2025-10-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,8,7,1,0,4855.84,4617.14,238.7,95.08
+2025-10-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,5,5,0,0,2726.76,2726.76,0.0,100.0
+2025-10-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,38,35,3,0,22877.38,20969.02,1908.36,91.66
+2025-10-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,20,20,0,0,11833.94,11833.94,0.0,100.0
+2025-10-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,6,6,0,0,3971.1,3971.1,0.0,100.0
+2025-10-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,3,3,0,0,2085.68,2085.68,0.0,100.0
+2025-10-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,6,5,1,0,3140.92,2591.6,549.32,82.51
+2025-10-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,26,24,1,1,14492.5,13804.92,687.58,95.26
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,4,4,0,0,356.0,356.0,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,7,7,0,0,801.0,801.0,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,37,32,2,3,4895.0,4416.62,478.38,90.23
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,15,13,2,0,2047.0,1780.0,267.0,86.96
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,7,7,0,0,979.0,979.0,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,10,10,0,0,890.0,890.0,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,5,5,0,0,445.0,445.0,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,24,24,0,0,2581.0,2581.0,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,7,6,0,1,707.75,670.5,37.25,94.74
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,5,5,0,0,521.5,521.5,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,29,28,1,0,2831.0,2793.75,37.25,98.68
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,11,9,1,1,968.5,838.13,130.37,86.54
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,7,7,0,0,707.75,707.75,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,10,10,0,0,931.25,931.25,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,3,3,0,0,111.75,111.75,0.0,100.0
+2025-10-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,15,14,1,0,1527.25,1415.5,111.75,92.68
+2025-10-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,5,4,1,0,1833.15,1315.05,518.1,71.74
+2025-10-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,2,2,0,0,580.25,580.25,0.0,100.0
+2025-10-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,31,25,3,3,10459.9,8863.53,1596.37,84.74
+2025-10-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,13,12,1,0,5058.9,4576.55,482.35,90.47
+2025-10-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,7,7,0,0,2838.0,2838.0,0.0,100.0
+2025-10-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,4,4,0,0,1304.6,1304.6,0.0,100.0
+2025-10-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,8,8,0,0,2619.65,2619.65,0.0,100.0
+2025-10-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,16,13,2,1,5246.45,4132.15,1114.3,78.76
+2025-10-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,8,7,1,0,7415.76,6444.9,970.86,86.91
+2025-10-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,2,2,0,0,1890.24,1890.24,0.0,100.0
+2025-10-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,21,17,2,2,17523.66,15291.71,2231.95,87.26
+2025-10-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,14,13,0,1,11405.46,10810.8,594.66,94.79
+2025-10-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,9,9,0,0,7524.66,7524.66,0.0,100.0
+2025-10-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,5,5,0,0,3388.44,3388.44,0.0,100.0
+2025-10-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,6,6,0,0,6311.58,6311.58,0.0,100.0
+2025-10-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,10,10,0,0,8721.24,8721.24,0.0,100.0
+2025-10-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,9,8,0,1,5363.05,4950.22,412.83,92.3
+2025-10-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,6,5,1,0,4238.01,3765.16,472.85,88.84
+2025-10-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,46,43,2,1,27356.21,26258.24,1097.97,95.99
+2025-10-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,21,18,1,2,11907.0,10814.91,1092.09,90.83
+2025-10-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,8,7,1,0,5210.17,4623.64,586.53,88.74
+2025-10-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,4,3,1,0,2166.78,1876.7,290.08,86.61
+2025-10-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,5,4,1,0,2906.19,2660.21,245.98,91.54
+2025-10-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,28,24,3,1,17010.35,14840.14,2170.21,87.24
+2025-10-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,6,6,0,0,674.35,674.35,0.0,100.0
+2025-10-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,4,3,1,0,476.01,317.34,158.67,66.67
+2025-10-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,32,29,3,0,3490.69,3133.68,357.01,89.77
+2025-10-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,14,13,1,0,1348.67,1269.34,79.33,94.12
+2025-10-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,8,8,0,0,555.35,555.35,0.0,100.0
+2025-10-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,4,4,0,0,436.33,436.33,0.0,100.0
+2025-10-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,8,6,1,1,714.01,575.18,138.83,80.56
+2025-10-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,16,16,0,0,1547.0,1547.0,0.0,100.0
+2025-10-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,6,6,0,0,5118.96,5118.96,0.0,100.0
+2025-10-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,3,3,0,0,1469.58,1469.58,0.0,100.0
+2025-10-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,26,25,1,0,19932.36,19442.64,489.72,97.54
+2025-10-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,14,12,1,1,8191.68,6914.25,1277.43,84.41
+2025-10-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,9,8,1,0,7150.08,6610.38,539.7,92.45
+2025-10-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,7,7,0,0,5717.04,5717.04,0.0,100.0
+2025-10-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,4,3,1,0,3344.04,2404.08,939.96,71.89
+2025-10-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,17,15,1,1,14396.34,13341.09,1055.25,92.67
+2025-10-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,1,1,0,0,816.2,816.2,0.0,100.0
+2025-10-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,5,4,1,0,3032.75,2242.45,790.3,73.94
+2025-10-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,36,34,1,1,21359.8,20411.65,948.15,95.56
+2025-10-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,9,9,0,0,4305.0,4305.0,0.0,100.0
+2025-10-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,9,7,2,0,5048.05,4074.35,973.7,80.71
+2025-10-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,2,2,0,0,1000.3,1000.3,0.0,100.0
+2025-10-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,6,6,0,0,4092.2,4092.2,0.0,100.0
+2025-10-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,18,17,1,0,8726.55,8119.3,607.25,93.04
+2025-11-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,10,10,0,0,2436.0,2436.0,0.0,100.0
+2025-11-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,4,4,0,0,889.92,889.92,0.0,100.0
+2025-11-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,33,32,0,1,7271.52,7238.76,32.76,99.55
+2025-11-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,25,24,0,1,5676.96,5609.88,67.08,98.82
+2025-11-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,11,11,0,0,2285.76,2285.76,0.0,100.0
+2025-11-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,12,11,1,0,2661.12,2365.92,295.2,88.91
+2025-11-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,6,6,0,0,1197.6,1197.6,0.0,100.0
+2025-11-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,31,30,0,1,6765.12,6631.68,133.44,98.03
+2025-11-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,8,8,0,0,4855.84,4855.84,0.0,100.0
+2025-11-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,5,4,1,0,2726.76,1991.44,735.32,73.03
+2025-11-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,52,49,2,1,31025.42,29509.98,1515.44,95.12
+2025-11-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,27,24,1,2,15924.08,14658.35,1265.73,92.05
+2025-11-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,8,7,1,0,4932.72,4211.04,721.68,85.37
+2025-11-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,6,6,0,0,4302.8,4302.8,0.0,100.0
+2025-11-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,7,7,0,0,3817.96,3817.96,0.0,100.0
+2025-11-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,27,26,1,0,15287.34,14726.86,560.48,96.33
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,6,5,1,0,667.5,623.0,44.5,93.33
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,8,8,0,0,934.5,934.5,0.0,100.0
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,45,43,1,1,5740.5,5573.62,166.88,97.09
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,19,16,3,0,2670.0,2314.0,356.0,86.67
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,7,6,0,1,979.0,967.88,11.12,98.86
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,10,10,0,0,890.0,890.0,0.0,100.0
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,7,6,1,0,756.5,667.5,89.0,88.24
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,27,25,1,1,2981.5,2814.62,166.88,94.4
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,8,8,0,0,819.5,819.5,0.0,100.0
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,7,4,3,0,707.75,372.5,335.25,52.63
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,35,35,0,0,3464.25,3464.25,0.0,100.0
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,15,14,0,1,1266.5,1257.19,9.31,99.26
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,8,7,1,0,819.5,707.75,111.75,86.36
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,10,10,0,0,931.25,931.25,0.0,100.0
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,4,4,0,0,260.75,260.75,0.0,100.0
+2025-11-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,15,14,0,1,1564.5,1527.25,37.25,97.62
+2025-11-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,8,8,0,0,2685.1,2685.1,0.0,100.0
+2025-11-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,7,7,0,0,2487.65,2487.65,0.0,100.0
+2025-11-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,37,36,1,0,12276.0,12027.95,248.05,97.98
+2025-11-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,15,13,1,1,5822.85,5302.0,520.85,91.06
+2025-11-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,12,11,1,0,4705.8,4222.9,482.9,89.74
+2025-11-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,4,4,0,0,1304.6,1304.6,0.0,100.0
+2025-11-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,8,7,1,0,2684.0,2307.25,376.75,85.96
+2025-11-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,23,22,0,1,7269.35,7202.94,66.41,99.09
+2025-11-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,8,7,0,1,7415.76,6930.33,485.43,93.45
+2025-11-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,4,3,1,0,3095.4,2709.96,385.44,87.55
+2025-11-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,30,29,0,1,25287.24,25165.47,121.77,99.52
+2025-11-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,18,18,0,0,15054.6,15054.6,0.0,100.0
+2025-11-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,10,10,0,0,8440.74,8440.74,0.0,100.0
+2025-11-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,11,11,0,0,8851.92,8851.92,0.0,100.0
+2025-11-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,7,7,0,0,7304.22,7304.22,0.0,100.0
+2025-11-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,15,14,1,0,12784.2,12085.26,698.94,94.53
+2025-11-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,11,9,1,1,6501.32,5881.71,619.61,90.47
+2025-11-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,7,7,0,0,5143.53,5143.53,0.0,100.0
+2025-11-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,55,51,2,2,32654.09,31385.48,1268.61,96.12
+2025-11-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,23,21,1,1,13520.57,12735.47,785.1,94.19
+2025-11-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,10,10,0,0,6469.96,6469.96,0.0,100.0
+2025-11-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,6,4,2,0,3037.51,1681.19,1356.32,55.35
+2025-11-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,7,5,2,0,4043.48,3184.51,858.97,78.76
+2025-11-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,30,28,2,0,17593.94,16541.91,1052.03,94.02
+2025-11-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,7,7,0,0,753.68,753.68,0.0,100.0
+2025-11-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,4,4,0,0,476.01,476.01,0.0,100.0
+2025-11-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,37,35,1,1,3927.02,3788.19,138.83,96.46
+2025-11-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,18,18,0,0,1705.67,1705.67,0.0,100.0
+2025-11-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,10,10,0,0,793.35,793.35,0.0,100.0
+2025-11-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,6,5,0,1,436.33,406.58,29.75,93.18
+2025-11-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,9,9,0,0,912.35,912.35,0.0,100.0
+2025-11-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,22,19,2,1,2142.0,1933.74,208.26,90.28
+2025-11-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,9,9,0,0,7098.42,7098.42,0.0,100.0
+2025-11-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,4,4,0,0,2182.32,2182.32,0.0,100.0
+2025-11-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,34,31,0,3,25900.14,24848.25,1051.89,95.94
+2025-11-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,15,15,0,0,9395.82,9395.82,0.0,100.0
+2025-11-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,11,11,0,0,8297.1,8297.1,0.0,100.0
+2025-11-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,8,6,2,0,6919.5,5110.56,1808.94,73.86
+2025-11-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,7,5,2,0,5892.18,3664.5,2227.68,62.19
+2025-11-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,20,17,1,2,16877.28,15323.81,1553.47,90.8
+2025-11-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,6,6,0,0,3644.9,3644.9,0.0,100.0
+2025-11-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,41,38,2,1,24494.75,23200.8,1293.95,94.72
+2025-11-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,11,11,0,0,5976.95,5976.95,0.0,100.0
+2025-11-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,10,9,1,0,5840.45,5311.25,529.2,90.94
+2025-11-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,5,5,0,0,2717.05,2717.05,0.0,100.0
+2025-11-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,6,6,0,0,4092.2,4092.2,0.0,100.0
+2025-11-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,19,17,2,0,9166.85,7948.15,1218.7,86.71
+2025-12-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,13,12,1,0,3063.84,2761.44,302.4,90.13
+2025-12-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,3,3,0,0,728.16,728.16,0.0,100.0
+2025-12-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,44,43,1,0,9844.32,9535.68,308.64,96.86
+2025-12-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,27,25,0,2,6220.8,6070.68,150.12,97.59
+2025-12-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,13,13,0,0,2622.24,2622.24,0.0,100.0
+2025-12-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,15,14,0,1,3152.64,3110.64,42.0,98.67
+2025-12-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,8,8,0,0,1638.72,1638.72,0.0,100.0
+2025-12-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,37,37,0,0,8072.64,8072.64,0.0,100.0
+2025-12-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,10,10,0,0,5536.6,5536.6,0.0,100.0
+2025-12-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,6,5,1,0,3214.08,2726.76,487.32,84.84
+2025-12-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,61,59,2,0,36390.28,35086.42,1303.86,96.42
+2025-12-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,30,26,3,1,17823.14,16170.84,1652.3,90.73
+2025-12-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,13,12,1,0,8086.66,7475.34,611.32,92.44
+2025-12-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,7,7,0,0,4806.86,4806.86,0.0,100.0
+2025-12-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,8,6,2,0,4499.34,3317.62,1181.72,73.74
+2025-12-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,35,35,0,0,19971.44,19971.44,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,9,9,0,0,1023.5,1023.5,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,9,9,0,0,979.0,979.0,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,54,53,1,0,6808.5,6630.5,178.0,97.39
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,21,21,0,0,2848.0,2848.0,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,10,7,2,1,1335.0,1023.5,311.5,76.67
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,11,11,0,0,979.0,979.0,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,8,8,0,0,801.0,801.0,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,31,30,0,1,3337.5,3326.38,11.12,99.67
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,10,10,0,0,1005.75,1005.75,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,10,9,1,0,968.5,856.75,111.75,88.46
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,40,38,1,1,3799.5,3725.0,74.5,98.04
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,15,13,2,0,1341.0,1043.0,298.0,77.78
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,8,7,1,0,856.75,782.25,74.5,91.3
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,10,10,0,0,856.75,856.75,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,6,6,0,0,409.75,409.75,0.0,100.0
+2025-12-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,18,17,0,1,1974.25,1918.38,55.87,97.17
+2025-12-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,9,9,0,0,2831.4,2831.4,0.0,100.0
+2025-12-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,7,7,0,0,2487.65,2487.65,0.0,100.0
+2025-12-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,42,40,2,0,14028.85,13397.45,631.4,95.5
+2025-12-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,16,16,0,0,6110.5,6110.5,0.0,100.0
+2025-12-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,14,13,1,0,5686.45,5226.1,460.35,91.9
+2025-12-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,4,3,0,1,1304.6,1184.7,119.9,90.81
+2025-12-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,9,8,0,1,2868.8,2823.56,45.24,98.42
+2025-12-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,27,21,5,1,8398.5,6725.95,1672.55,80.09
+2025-12-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,10,9,1,0,8743.02,7786.68,956.34,89.06
+2025-12-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,5,5,0,0,3738.9,3738.9,0.0,100.0
+2025-12-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,39,38,1,0,33111.54,32670.0,441.54,98.67
+2025-12-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,20,19,1,0,16487.46,15609.0,878.46,94.67
+2025-12-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,11,10,1,0,8906.7,7733.22,1173.48,86.82
+2025-12-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,13,13,0,0,10589.04,10589.04,0.0,100.0
+2025-12-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,8,8,0,0,8191.26,8191.26,0.0,100.0
+2025-12-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,20,16,1,3,16779.18,15486.9,1292.28,92.3
+2025-12-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,12,11,1,0,7396.55,6535.13,861.42,88.35
+2025-12-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,8,8,0,0,5425.77,5425.77,0.0,100.0
+2025-12-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,67,61,4,2,39306.82,36094.26,3212.56,91.83
+2025-12-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,27,24,3,0,16662.45,14874.93,1787.52,89.27
+2025-12-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,13,11,1,1,8377.53,7420.07,957.46,88.57
+2025-12-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,8,8,0,0,4411.47,4411.47,0.0,100.0
+2025-12-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,10,9,1,0,4541.32,4171.86,369.46,91.86
+2025-12-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,34,32,2,0,19880.28,19179.58,700.7,96.48
+2025-12-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,10,9,1,0,1150.35,1110.68,39.67,96.55
+2025-12-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,4,3,1,0,436.34,396.67,39.67,90.91
+2025-12-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,44,41,2,1,4323.69,4105.52,218.17,94.95
+2025-12-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,24,22,1,1,2340.34,2290.75,49.59,97.88
+2025-12-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,11,10,0,1,872.68,852.85,19.83,97.73
+2025-12-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,8,7,0,1,595.0,575.17,19.83,96.67
+2025-12-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,12,10,2,0,1229.68,1071.02,158.66,87.1
+2025-12-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,24,22,1,1,2221.34,2042.84,178.5,91.96
+2025-12-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,9,9,0,0,7098.42,7098.42,0.0,100.0
+2025-12-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,5,3,2,0,3081.96,1422.96,1659.0,46.17
+2025-12-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,44,41,3,0,34294.68,31983.0,2311.68,93.26
+2025-12-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,16,15,1,0,10408.86,10003.14,405.72,96.1
+2025-12-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,13,12,0,1,10043.46,9635.85,407.61,95.94
+2025-12-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,10,9,0,1,8991.78,8681.3,310.48,96.55
+2025-12-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,7,7,0,0,5892.18,5892.18,0.0,100.0
+2025-12-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,22,21,1,0,18847.5,17829.42,1018.08,94.6
+2025-12-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,4,3,1,0,2781.45,2025.1,756.35,72.81
+2025-12-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,6,6,0,0,3644.9,3644.9,0.0,100.0
+2025-12-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,46,42,4,0,26933.55,24721.2,2212.35,91.79
+2025-12-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,12,12,0,0,6311.55,6311.55,0.0,100.0
+2025-12-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,10,7,0,3,5840.45,5205.98,634.47,89.14
+2025-12-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,6,5,1,0,3385.55,2885.05,500.5,85.22
+2025-12-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,6,6,0,0,4092.2,4092.2,0.0,100.0
+2025-12-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,24,23,0,1,11480.35,11401.16,79.19,99.31
+2026-01-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,16,14,0,2,3438.72,3329.76,108.96,96.83
+2026-01-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,3,2,1,0,728.16,433.44,294.72,59.53
+2026-01-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,47,43,3,1,10497.6,9717.12,780.48,92.57
+2026-01-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,31,30,1,0,6927.36,6705.12,222.24,96.79
+2026-01-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,18,18,0,0,3976.8,3976.8,0.0,100.0
+2026-01-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,17,15,2,0,3356.16,2930.88,425.28,87.33
+2026-01-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,9,8,1,0,1842.72,1652.64,190.08,89.68
+2026-01-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,42,39,2,1,9259.68,8822.4,437.28,95.28
+2026-01-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,14,13,1,0,8445.02,7995.52,449.5,94.68
+2026-01-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,6,6,0,0,3214.08,3214.08,0.0,100.0
+2026-01-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,71,70,1,0,41938.04,41313.08,624.96,98.51
+2026-01-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,40,40,0,0,23724.3,23724.3,0.0,100.0
+2026-01-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,16,16,0,0,9822.66,9822.66,0.0,100.0
+2026-01-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,8,8,0,0,5152.2,5152.2,0.0,100.0
+2026-01-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,11,10,1,0,5876.36,5516.14,360.22,93.87
+2026-01-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,40,39,1,0,23041.68,22698.82,342.86,98.51
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,10,9,1,0,1157.0,979.0,178.0,84.62
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,11,10,1,0,1112.5,934.5,178.0,84.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,59,51,6,2,7253.5,6485.88,767.62,89.42
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,24,23,1,0,3026.0,2937.0,89.0,97.06
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,10,10,0,0,1335.0,1335.0,0.0,100.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,13,13,0,0,1290.5,1290.5,0.0,100.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,10,10,0,0,1023.5,1023.5,0.0,100.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,39,37,1,1,4272.0,4071.75,200.25,95.31
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,9,9,0,0,894.0,894.0,0.0,100.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,10,10,0,0,968.5,968.5,0.0,100.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,46,40,2,4,4246.5,3827.45,419.05,90.13
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,20,17,2,1,1750.75,1490.0,260.75,85.11
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,9,9,0,0,894.0,894.0,0.0,100.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,8,8,0,0,558.75,558.75,0.0,100.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,6,6,0,0,409.75,409.75,0.0,100.0
+2026-01-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,19,18,1,0,2048.75,1974.25,74.5,96.36
+2026-01-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,11,10,0,1,3729.55,3671.94,57.61,98.46
+2026-01-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,8,7,1,0,2786.85,2487.65,299.2,89.26
+2026-01-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,48,44,3,1,16401.0,15238.57,1162.43,92.91
+2026-01-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,21,19,2,0,8176.85,7373.85,803.0,90.18
+2026-01-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,16,15,1,0,6531.25,6070.9,460.35,92.95
+2026-01-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,5,5,0,0,1444.85,1444.85,0.0,100.0
+2026-01-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,11,7,3,1,3643.75,2594.9,1048.85,71.22
+2026-01-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,33,31,2,0,10803.1,10359.25,443.85,95.89
+2026-01-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,12,11,1,0,10589.7,9282.24,1307.46,87.65
+2026-01-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,7,7,0,0,5558.52,5558.52,0.0,100.0
+2026-01-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,45,42,3,0,37791.6,35150.94,2640.66,93.01
+2026-01-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,20,18,2,0,16487.46,14758.92,1728.54,89.52
+2026-01-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,11,10,0,1,8906.7,8729.82,176.88,98.01
+2026-01-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,14,12,2,0,10921.68,9184.56,1737.12,84.09
+2026-01-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,8,6,2,0,8191.26,6250.86,1940.4,76.31
+2026-01-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,21,20,1,0,17248.44,16536.96,711.48,95.88
+2026-01-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,16,15,0,1,9674.07,9497.79,176.28,98.18
+2026-01-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,8,7,1,0,5425.77,4520.25,905.52,83.31
+2026-01-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,75,68,5,2,44768.85,41320.23,3448.62,92.3
+2026-01-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,31,29,2,0,19372.15,17791.41,1580.74,91.84
+2026-01-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,13,11,2,0,8377.53,7287.28,1090.25,86.99
+2026-01-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,12,11,1,0,6681.64,6022.1,659.54,90.13
+2026-01-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,12,10,2,0,5745.74,5174.89,570.85,90.06
+2026-01-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,34,32,2,0,20974.45,19893.02,1081.43,94.84
+2026-01-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,12,11,0,1,1348.69,1309.02,39.67,97.06
+2026-01-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,7,7,0,0,793.34,793.34,0.0,100.0
+2026-01-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,52,47,4,1,4998.02,4472.43,525.59,89.48
+2026-01-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,29,29,0,0,2895.67,2895.67,0.0,100.0
+2026-01-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,13,13,0,0,1071.02,1071.02,0.0,100.0
+2026-01-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,9,8,1,0,634.67,595.0,39.67,93.75
+2026-01-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,13,12,1,0,1309.01,1150.34,158.67,87.88
+2026-01-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,28,24,3,1,2459.35,2161.85,297.5,87.9
+2026-01-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,9,9,0,0,7098.42,7098.42,0.0,100.0
+2026-01-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,7,7,0,0,5205.48,5205.48,0.0,100.0
+2026-01-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,49,47,2,0,38713.92,37429.98,1283.94,96.68
+2026-01-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,18,17,1,0,11115.3,10681.86,433.44,96.1
+2026-01-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,15,12,2,1,11891.46,10209.57,1681.89,85.86
+2026-01-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,15,14,1,0,12190.08,11573.94,616.14,94.95
+2026-01-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,7,6,0,1,5892.18,5323.71,568.47,90.35
+2026-01-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,27,25,2,0,22123.92,20275.08,1848.84,91.64
+2026-01-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,3,3,0,0,1965.25,1965.25,0.0,100.0
+2026-01-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,6,6,0,0,3644.9,3644.9,0.0,100.0
+2026-01-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,48,44,3,1,28400.75,26489.4,1911.35,93.27
+2026-01-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,17,16,1,0,9456.65,8991.5,465.15,95.08
+2026-01-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,11,11,0,0,6552.7,6552.7,0.0,100.0
+2026-01-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,7,7,0,0,4086.95,4086.95,0.0,100.0
+2026-01-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,8,8,0,0,5345.9,5345.9,0.0,100.0
+2026-01-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,26,25,1,0,12302.85,12016.55,286.3,97.67
+2026-02-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,19,17,1,1,3963.84,3633.12,330.72,91.66
+2026-02-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,3,3,0,0,728.16,728.16,0.0,100.0
+2026-02-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,67,63,3,1,15236.64,14703.0,533.64,96.5
+2026-02-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,36,35,1,0,8161.44,8040.96,120.48,98.52
+2026-02-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,19,18,1,0,4162.56,3971.04,191.52,95.4
+2026-02-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,17,16,1,0,3356.16,3188.64,167.52,95.01
+2026-02-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,10,10,0,0,2058.72,2058.72,0.0,100.0
+2026-02-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,45,43,1,1,10042.08,9610.32,431.76,95.7
+2026-02-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,16,15,0,1,10048.34,9959.37,88.97,99.11
+2026-02-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,7,6,1,0,3845.86,3453.4,392.46,89.8
+2026-02-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,79,65,11,3,45391.44,38785.65,6605.79,85.45
+2026-02-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,45,36,6,3,26699.06,22373.94,4325.12,83.8
+2026-02-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,18,18,0,0,10621.84,10621.84,0.0,100.0
+2026-02-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,8,7,1,0,4905.44,4560.1,345.34,92.96
+2026-02-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,12,11,1,0,6377.32,5876.36,500.96,92.14
+2026-02-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,39,36,2,1,22005.66,20227.19,1778.47,91.92
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,11,11,0,0,1246.0,1246.0,0.0,100.0
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,14,14,0,0,1424.0,1424.0,0.0,100.0
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,63,60,2,1,7787.5,7453.75,333.75,95.71
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,27,24,3,0,3515.5,3070.5,445.0,87.34
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,12,10,2,0,1602.0,1335.0,267.0,83.33
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,16,16,0,0,1602.0,1602.0,0.0,100.0
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,12,12,0,0,1290.5,1290.5,0.0,100.0
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,43,43,0,0,4761.5,4761.5,0.0,100.0
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,12,11,0,1,1229.25,1192.0,37.25,96.97
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,12,12,0,0,1080.25,1080.25,0.0,100.0
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,49,48,1,0,4470.0,4321.0,149.0,96.67
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,22,21,1,0,2011.5,1937.0,74.5,96.3
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,9,8,1,0,894.0,819.5,74.5,91.67
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,8,8,0,0,558.75,558.75,0.0,100.0
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,9,8,1,0,558.75,521.5,37.25,93.33
+2026-02-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,20,17,2,1,2197.75,2011.5,186.25,91.53
+2026-02-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,13,12,1,0,4249.3,3853.85,395.45,90.69
+2026-02-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,8,7,0,1,2786.85,2709.71,77.14,97.23
+2026-02-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,54,49,5,0,18877.1,16814.05,2063.05,89.07
+2026-02-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,28,25,3,0,10754.15,9579.35,1174.8,89.08
+2026-02-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,16,16,0,0,6531.25,6531.25,0.0,100.0
+2026-02-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,6,5,0,1,1706.1,1606.28,99.82,94.15
+2026-02-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,11,9,1,1,3643.75,3326.54,317.21,91.29
+2026-02-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,37,30,6,1,11948.2,9893.68,2054.52,82.8
+2026-02-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,12,12,0,0,10589.7,10589.7,0.0,100.0
+2026-02-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,10,10,0,0,9226.8,9226.8,0.0,100.0
+2026-02-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,46,41,3,2,39115.56,34992.21,4123.35,89.46
+2026-02-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,22,21,1,0,18415.32,17933.52,481.8,97.38
+2026-02-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,12,10,1,1,9443.94,8431.5,1012.44,89.28
+2026-02-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,16,16,0,0,12536.04,12536.04,0.0,100.0
+2026-02-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,10,9,1,0,10005.6,9012.96,992.64,90.08
+2026-02-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,24,22,2,0,19290.48,17659.62,1630.86,91.55
+2026-02-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,18,16,2,0,10836.84,9768.64,1068.2,90.14
+2026-02-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,10,10,0,0,6550.81,6550.81,0.0,100.0
+2026-02-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,87,83,3,1,52098.27,49814.63,2283.64,95.62
+2026-02-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,32,32,0,0,20123.32,20123.32,0.0,100.0
+2026-02-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,15,13,1,1,9583.42,8857.48,725.94,92.43
+2026-02-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,13,11,2,0,7217.7,6350.4,867.3,87.98
+2026-02-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,13,13,0,0,6164.69,6164.69,0.0,100.0
+2026-02-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,42,41,1,0,26807.41,26375.72,431.69,98.39
+2026-02-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,16,15,0,1,1666.03,1606.53,59.5,96.43
+2026-02-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,7,6,1,0,793.34,753.67,39.67,95.0
+2026-02-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,57,55,2,0,5355.02,5077.35,277.67,94.81
+2026-02-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,31,29,2,0,3133.67,2895.67,238.0,92.41
+2026-02-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,13,12,0,1,1150.35,1140.43,9.92,99.14
+2026-02-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,11,10,1,0,912.34,793.34,119.0,86.96
+2026-02-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,15,11,3,1,1626.35,1190.01,436.34,73.17
+2026-02-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,29,28,1,0,2380.01,2340.34,39.67,98.33
+2026-02-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,11,10,1,0,8522.64,7461.3,1061.34,87.55
+2026-02-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,7,6,1,0,5205.48,4446.12,759.36,85.41
+2026-02-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,56,50,5,1,43552.74,40113.15,3439.59,92.1
+2026-02-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,21,20,1,0,13461.0,12256.86,1204.14,91.05
+2026-02-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,15,15,0,0,11891.46,11891.46,0.0,100.0
+2026-02-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,17,17,0,0,13924.26,13924.26,0.0,100.0
+2026-02-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,6,6,0,0,5294.94,5294.94,0.0,100.0
+2026-02-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,32,30,1,1,26746.44,25513.42,1233.02,95.39
+2026-02-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,3,3,0,0,1965.25,1965.25,0.0,100.0
+2026-02-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,6,6,0,0,3644.9,3644.9,0.0,100.0
+2026-02-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,57,54,1,2,34345.85,33807.99,537.86,98.43
+2026-02-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,18,18,0,0,9488.5,9488.5,0.0,100.0
+2026-02-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,12,12,0,0,7192.15,7192.15,0.0,100.0
+2026-02-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,8,8,0,0,4711.0,4711.0,0.0,100.0
+2026-02-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,8,7,1,0,5345.9,4793.6,552.3,89.67
+2026-02-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,32,28,1,3,15493.8,14238.09,1255.71,91.9
+2026-03-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,19,17,2,0,4000.8,3561.12,439.68,89.01
+2026-03-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,3,3,0,0,579.36,579.36,0.0,100.0
+2026-03-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,75,71,2,2,17243.52,16486.2,757.32,95.61
+2026-03-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,37,34,2,1,8505.6,7856.88,648.72,92.37
+2026-03-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,21,21,0,0,4756.8,4756.8,0.0,100.0
+2026-03-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,17,17,0,0,3380.64,3380.64,0.0,100.0
+2026-03-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,11,11,0,0,2395.2,2395.2,0.0,100.0
+2026-03-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,49,47,1,1,11100.96,10786.32,314.64,97.17
+2026-03-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,21,16,4,1,13483.14,10983.92,2499.22,81.46
+2026-03-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,8,8,0,0,4418.12,4418.12,0.0,100.0
+2026-03-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,90,85,2,3,52851.28,51322.37,1528.91,97.11
+2026-03-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,48,45,2,1,28333.38,27085.63,1247.75,95.6
+2026-03-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,20,18,1,1,11982.74,11188.52,794.22,93.37
+2026-03-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,9,9,0,0,5805.68,5805.68,0.0,100.0
+2026-03-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,15,15,0,0,7957.7,7957.7,0.0,100.0
+2026-03-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,42,40,2,0,23411.82,22573.58,838.24,96.42
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,11,11,0,0,1246.0,1246.0,0.0,100.0
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,15,12,2,1,1602.0,1468.5,133.5,91.67
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,68,63,4,1,8410.5,7743.0,667.5,92.06
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,33,32,0,1,3960.5,3938.25,22.25,99.44
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,15,13,2,0,1824.5,1557.5,267.0,85.37
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,19,16,2,1,1913.5,1735.5,178.0,90.7
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,11,11,0,0,1112.5,1112.5,0.0,100.0
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,46,43,3,0,5206.5,4939.5,267.0,94.87
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,12,11,0,1,1229.25,1192.0,37.25,96.97
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,15,14,1,0,1192.0,1154.75,37.25,96.88
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,54,45,6,3,4954.25,4442.06,512.19,89.66
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,24,22,2,0,2048.75,1899.75,149.0,92.73
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,11,10,1,0,1117.5,1005.75,111.75,90.0
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,7,6,0,1,484.25,465.63,18.62,96.15
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,10,10,0,0,596.0,596.0,0.0,100.0
+2026-03-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,23,21,1,1,2458.5,2328.13,130.37,94.7
+2026-03-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,15,15,0,0,4582.6,4582.6,0.0,100.0
+2026-03-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,8,8,0,0,2786.85,2786.85,0.0,100.0
+2026-03-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,60,54,5,1,20655.8,19009.51,1646.29,92.03
+2026-03-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,28,26,1,1,10754.15,10131.96,622.19,94.21
+2026-03-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,16,13,2,1,6531.25,5541.39,989.86,84.84
+2026-03-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,5,4,1,0,1306.8,909.15,397.65,69.57
+2026-03-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,11,11,0,0,3663.55,3663.55,0.0,100.0
+2026-03-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,39,37,2,0,12723.7,12180.85,542.85,95.73
+2026-03-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,14,13,1,0,12796.08,11832.48,963.6,92.47
+2026-03-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,14,12,2,0,13465.32,11475.42,1989.9,85.22
+2026-03-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,57,53,4,0,47293.62,43910.46,3383.16,92.85
+2026-03-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,24,22,1,1,20686.38,19421.49,1264.89,93.89
+2026-03-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,13,11,2,0,10626.0,8981.28,1644.72,84.52
+2026-03-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,18,17,1,0,14086.38,13713.48,372.9,97.35
+2026-03-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,11,10,1,0,11426.58,10769.88,656.7,94.25
+2026-03-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,24,22,1,1,19477.92,18203.13,1274.79,93.46
+2026-03-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,19,19,0,0,11255.79,11255.79,0.0,100.0
+2026-03-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,10,8,1,1,6570.9,6110.55,460.35,92.99
+2026-03-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,91,84,7,0,55174.0,50921.29,4252.71,92.29
+2026-03-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,39,39,0,0,24098.69,24098.69,0.0,100.0
+2026-03-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,16,15,1,0,10165.05,9732.38,432.67,95.74
+2026-03-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,14,12,1,1,7853.23,7040.32,812.91,89.65
+2026-03-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,16,16,0,0,7922.81,7922.81,0.0,100.0
+2026-03-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,44,41,3,0,27583.08,25763.71,1819.37,93.4
+2026-03-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,19,18,1,0,1943.71,1904.04,39.67,97.96
+2026-03-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,7,7,0,0,793.34,793.34,0.0,100.0
+2026-03-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,62,61,1,0,5712.0,5593.0,119.0,97.92
+2026-03-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,34,31,3,0,3451.0,3173.34,277.66,91.95
+2026-03-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,17,15,2,0,1586.69,1428.02,158.67,90.0
+2026-03-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,13,13,0,0,1110.68,1110.68,0.0,100.0
+2026-03-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,16,15,1,0,1705.68,1547.01,158.67,90.7
+2026-03-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,36,34,1,1,2816.34,2727.09,89.25,96.83
+2026-03-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,12,11,0,1,9698.22,9569.7,128.52,98.67
+2026-03-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,7,7,0,0,5205.48,5205.48,0.0,100.0
+2026-03-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,62,59,1,2,48436.92,46537.89,1899.03,96.08
+2026-03-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,22,22,0,0,14412.72,14412.72,0.0,100.0
+2026-03-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,17,15,1,1,13011.18,11707.5,1303.68,89.98
+2026-03-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,17,15,2,0,13924.26,11675.16,2249.1,83.85
+2026-03-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,7,7,0,0,6496.14,6496.14,0.0,100.0
+2026-03-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,34,29,4,1,28120.68,23725.8,4394.88,84.37
+2026-03-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,4,4,0,0,2552.9,2552.9,0.0,100.0
+2026-03-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,6,6,0,0,3644.9,3644.9,0.0,100.0
+2026-03-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,56,49,7,0,33995.85,30038.75,3957.1,88.36
+2026-03-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,23,22,1,0,11812.5,11508.7,303.8,97.43
+2026-03-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,11,11,0,0,6622.0,6622.0,0.0,100.0
+2026-03-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,8,8,0,0,4605.3,4605.3,0.0,100.0
+2026-03-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,9,8,1,0,5986.05,5299.7,686.35,88.53
+2026-03-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,35,32,3,0,16473.45,15162.7,1310.75,92.04
+2026-04-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,18,17,0,1,3849.6,3813.6,36.0,99.06
+2026-04-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,4,4,0,0,689.28,689.28,0.0,100.0
+2026-04-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,83,77,4,2,18737.76,17869.68,868.08,95.37
+2026-04-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,38,37,1,0,8710.08,8563.68,146.4,98.32
+2026-04-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,24,24,0,0,5748.48,5748.48,0.0,100.0
+2026-04-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,18,16,2,0,3560.16,3200.16,360.0,89.89
+2026-04-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,14,12,2,0,3159.36,2640.0,519.36,83.56
+2026-04-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,51,46,5,0,11718.24,10473.6,1244.64,89.38
+2026-04-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,21,18,2,1,13483.14,12314.9,1168.24,91.34
+2026-04-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,12,11,1,0,6913.62,6184.5,729.12,89.45
+2026-04-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,94,88,5,1,55530.3,52715.5,2814.8,94.93
+2026-04-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,55,53,2,0,32368.96,31326.74,1042.22,96.78
+2026-04-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,21,19,2,0,12455.8,11610.74,845.06,93.22
+2026-04-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,10,9,0,1,6839.84,6475.59,364.25,94.67
+2026-04-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,17,16,0,1,8890.18,8709.45,180.73,97.97
+2026-04-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,47,45,2,0,26026.98,25087.06,939.92,96.39
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,11,10,1,0,1112.5,1023.5,89.0,92.0
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,18,18,0,0,1913.5,1913.5,0.0,100.0
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,74,68,4,2,8811.0,8321.5,489.5,94.44
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,34,31,2,1,3916.0,3671.25,244.75,93.75
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,15,15,0,0,1824.5,1824.5,0.0,100.0
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,20,19,1,0,2047.0,2002.5,44.5,97.83
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,11,11,0,0,1157.0,1157.0,0.0,100.0
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,49,47,2,0,5562.5,5295.5,267.0,95.2
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,15,15,0,0,1564.5,1564.5,0.0,100.0
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,15,15,0,0,1192.0,1192.0,0.0,100.0
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,60,58,2,0,5438.5,5326.75,111.75,97.95
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,26,26,0,0,2160.5,2160.5,0.0,100.0
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,17,15,2,0,1750.75,1564.5,186.25,89.36
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,8,8,0,0,558.75,558.75,0.0,100.0
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,10,8,1,1,521.5,474.94,46.56,91.07
+2026-04-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,25,24,1,0,2607.5,2533.0,74.5,97.14
+2026-04-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,16,15,1,0,4909.85,4644.2,265.65,94.59
+2026-04-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,10,9,1,0,3342.35,2973.3,369.05,88.96
+2026-04-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,67,62,3,2,22856.35,21752.37,1103.98,95.17
+2026-04-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,31,28,3,0,11996.6,10992.3,1004.3,91.63
+2026-04-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,17,16,0,1,6994.9,6879.95,114.95,98.36
+2026-04-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,7,6,1,0,2196.7,1928.85,267.85,87.81
+2026-04-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,13,11,2,0,4448.95,3533.75,915.2,79.43
+2026-04-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,45,42,2,1,14675.1,14093.75,581.35,96.04
+2026-04-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,15,13,1,1,13328.7,12448.09,880.61,93.39
+2026-04-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,16,15,1,0,15682.26,14365.56,1316.7,91.6
+2026-04-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,60,53,6,1,50552.04,44930.82,5621.22,88.88
+2026-04-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,27,25,2,0,23710.5,22086.24,1624.26,93.15
+2026-04-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,18,16,2,0,14361.6,12834.36,1527.24,89.37
+2026-04-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,19,18,1,0,15055.26,14455.98,599.28,96.02
+2026-04-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,13,12,1,0,12885.84,11749.98,1135.86,91.19
+2026-04-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,30,30,0,0,24208.14,24208.14,0.0,100.0
+2026-04-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,19,16,3,0,11255.79,9164.96,2090.83,81.42
+2026-04-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,10,10,0,0,6793.85,6793.85,0.0,100.0
+2026-04-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,93,88,2,3,56387.24,53746.14,2641.1,95.32
+2026-04-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,39,39,0,0,24081.54,24081.54,0.0,100.0
+2026-04-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,19,17,2,0,11568.41,10047.45,1520.96,86.85
+2026-04-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,18,17,1,0,10758.93,9991.59,767.34,92.87
+2026-04-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,17,15,2,0,8784.72,7527.38,1257.34,85.69
+2026-04-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,49,46,2,1,30512.3,28800.48,1711.82,94.39
+2026-04-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,21,19,1,1,2142.04,2072.62,69.42,96.76
+2026-04-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,7,7,0,0,793.34,793.34,0.0,100.0
+2026-04-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,67,62,4,1,6227.67,5850.84,376.83,93.95
+2026-04-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,39,36,3,0,4006.34,3609.67,396.67,90.1
+2026-04-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,17,16,1,0,1586.69,1467.69,119.0,92.5
+2026-04-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,13,12,0,1,1110.68,1100.76,9.92,99.11
+2026-04-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,17,17,0,0,1745.35,1745.35,0.0,100.0
+2026-04-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,41,35,3,3,3332.0,3054.32,277.68,91.67
+2026-04-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,11,11,0,0,8614.2,8614.2,0.0,100.0
+2026-04-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,9,8,1,0,6932.94,6033.3,899.64,87.02
+2026-04-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,70,64,6,0,56242.2,50419.74,5822.46,89.65
+2026-04-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,25,25,0,0,16353.54,16353.54,0.0,100.0
+2026-04-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,17,16,1,0,13011.18,12471.48,539.7,95.85
+2026-04-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,18,18,0,0,14290.5,14290.5,0.0,100.0
+2026-04-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,11,7,3,1,9858.66,6291.92,3566.74,63.82
+2026-04-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,38,35,3,0,30628.08,28650.3,1977.78,93.54
+2026-04-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,5,5,0,0,3337.25,3337.25,0.0,100.0
+2026-04-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,9,8,0,1,5880.0,5525.45,354.55,93.97
+2026-04-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,65,62,2,1,39175.5,37776.9,1398.6,96.43
+2026-04-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,23,23,0,0,11812.5,11812.5,0.0,100.0
+2026-04-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,11,9,1,1,6622.0,5750.85,871.15,86.84
+2026-04-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,11,10,1,0,6596.8,5972.75,624.05,90.54
+2026-04-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,9,9,0,0,5986.05,5986.05,0.0,100.0
+2026-04-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,39,36,2,1,18469.5,17547.43,922.07,95.01
+2026-05-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,18,17,1,0,3849.6,3499.2,350.4,90.9
+2026-05-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,4,3,1,0,689.28,579.36,109.92,84.05
+2026-05-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,82,77,4,1,18578.4,17563.32,1015.08,94.54
+2026-05-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,38,36,1,1,8710.08,8524.68,185.4,97.87
+2026-05-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,23,19,2,2,5565.6,4871.4,694.2,87.53
+2026-05-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,18,18,0,0,3560.16,3560.16,0.0,100.0
+2026-05-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,14,14,0,0,3159.36,3159.36,0.0,100.0
+2026-05-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,50,46,3,1,11514.24,10701.36,812.88,92.94
+2026-05-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,21,21,0,0,13483.14,13483.14,0.0,100.0
+2026-05-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,12,12,0,0,6913.62,6913.62,0.0,100.0
+2026-05-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,92,89,2,1,54661.06,53219.71,1441.35,97.36
+2026-05-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,55,51,3,1,32368.96,30555.77,1813.19,94.4
+2026-05-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,21,18,2,1,12455.8,11081.26,1374.54,88.96
+2026-05-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,10,10,0,0,6839.84,6839.84,0.0,100.0
+2026-05-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,17,16,1,0,8890.18,8401.62,488.56,94.5
+2026-05-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,45,40,5,0,25065.98,22597.76,2468.22,90.15
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,11,8,3,0,1112.5,845.5,267.0,76.0
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,17,16,0,1,1869.0,1780.0,89.0,95.24
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,74,69,4,1,8811.0,8210.25,600.75,93.18
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,33,30,3,0,3871.5,3515.5,356.0,90.8
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,15,15,0,0,1824.5,1824.5,0.0,100.0
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,20,19,1,0,2047.0,1958.0,89.0,95.65
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,11,10,1,0,1157.0,1112.5,44.5,96.15
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,46,45,0,1,5206.5,5117.5,89.0,98.29
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,15,14,1,0,1564.5,1452.75,111.75,92.86
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,15,12,3,0,1192.0,931.25,260.75,78.12
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,60,57,3,0,5438.5,5177.75,260.75,95.21
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,26,26,0,0,2160.5,2160.5,0.0,100.0
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,16,15,0,1,1601.75,1545.88,55.87,96.51
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,8,8,0,0,558.75,558.75,0.0,100.0
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,10,8,1,1,521.5,474.94,46.56,91.07
+2026-05-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,25,25,0,0,2607.5,2607.5,0.0,100.0
+2026-05-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,16,15,1,0,4909.85,4514.4,395.45,91.95
+2026-05-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,10,10,0,0,3342.35,3342.35,0.0,100.0
+2026-05-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,67,65,2,0,23070.3,22295.35,774.95,96.64
+2026-05-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,31,27,3,1,11996.6,10685.95,1310.65,89.07
+2026-05-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,16,15,1,0,6490.55,6135.25,355.3,94.53
+2026-05-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,7,7,0,0,2196.7,2196.7,0.0,100.0
+2026-05-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,13,12,0,1,4448.95,4179.73,269.22,93.95
+2026-05-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,44,41,3,0,14382.5,13137.3,1245.2,91.34
+2026-05-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,15,14,0,1,13328.7,13087.8,240.9,98.19
+2026-05-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,15,15,0,0,14704.14,14704.14,0.0,100.0
+2026-05-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,59,53,6,0,50367.9,46605.24,3762.66,92.53
+2026-05-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,25,22,2,1,21828.18,19315.23,2512.95,88.49
+2026-05-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,18,15,1,2,14361.6,13329.2,1032.4,92.81
+2026-05-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,19,18,1,0,15055.26,14290.98,764.28,94.92
+2026-05-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,13,11,1,1,12885.84,11834.63,1051.21,91.84
+2026-05-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,30,29,1,0,24208.14,22973.94,1234.2,94.9
+2026-05-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,18,16,1,1,10572.24,10172.64,399.6,96.22
+2026-05-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,10,9,0,1,6793.85,6557.43,236.42,96.52
+2026-05-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,93,87,4,2,56140.77,53824.79,2315.98,95.87
+2026-05-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,39,36,1,2,24081.54,22978.8,1102.74,95.42
+2026-05-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,18,17,0,1,10609.48,10468.97,140.51,98.68
+2026-05-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,17,16,1,0,10181.71,9213.47,968.24,90.49
+2026-05-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,15,13,1,1,7974.26,7564.5,409.76,94.86
+2026-05-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,48,46,1,1,29633.73,29182.93,450.8,98.48
+2026-05-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,20,18,2,0,2023.04,1864.37,158.67,92.16
+2026-05-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,7,7,0,0,793.34,793.34,0.0,100.0
+2026-05-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,67,60,5,2,6227.67,5662.42,565.25,90.92
+2026-05-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,39,32,7,0,4006.34,3332.0,674.34,83.17
+2026-05-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,14,14,0,0,1467.68,1467.68,0.0,100.0
+2026-05-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,13,12,1,0,1110.68,991.68,119.0,89.29
+2026-05-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,17,16,0,1,1745.35,1705.68,39.67,97.73
+2026-05-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,39,34,1,4,3213.0,3024.58,188.42,94.14
+2026-05-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,10,9,1,0,7491.54,6874.56,616.98,91.76
+2026-05-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,8,8,0,0,5938.8,5938.8,0.0,100.0
+2026-05-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,68,65,2,1,55222.86,53744.04,1478.82,97.32
+2026-05-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,25,22,2,1,16353.54,15227.94,1125.6,93.12
+2026-05-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,16,16,0,0,12195.96,12195.96,0.0,100.0
+2026-05-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,18,17,1,0,14290.5,13048.56,1241.94,91.31
+2026-05-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,11,10,1,0,9858.66,9183.72,674.94,93.15
+2026-05-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,36,32,3,1,28993.44,26050.29,2943.15,89.85
+2026-05-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,5,5,0,0,3337.25,3337.25,0.0,100.0
+2026-05-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,9,9,0,0,5880.0,5880.0,0.0,100.0
+2026-05-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,62,57,4,1,37084.25,34805.75,2278.5,93.86
+2026-05-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,23,17,5,1,11812.5,8913.98,2898.52,75.46
+2026-05-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,11,10,1,0,6622.0,5909.75,712.25,89.24
+2026-05-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,11,10,1,0,6596.8,5928.3,668.5,89.87
+2026-05-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,9,9,0,0,5986.05,5986.05,0.0,100.0
+2026-05-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,38,36,1,1,18170.6,17807.3,363.3,98.0
+2026-06-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Eastern Cape,17,15,2,0,3499.2,3156.96,342.24,90.22
+2026-06-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Free State,4,4,0,0,689.28,689.28,0.0,100.0
+2026-06-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Gauteng,82,77,4,1,18507.84,17470.8,1037.04,94.4
+2026-06-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,KwaZulu-Natal,38,35,3,0,8710.08,7891.68,818.4,90.6
+2026-06-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Limpopo,23,23,0,0,5565.6,5565.6,0.0,100.0
+2026-06-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Mpumalanga,17,16,1,0,3206.88,2934.24,272.64,91.5
+2026-06-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,North West,14,13,1,0,3159.36,2993.76,165.6,94.76
+2026-06-01,PART001,Ubuntu Credit,PRD001,Credit Life Basic,Credit Life,Western Cape,50,42,7,1,11514.24,9988.8,1525.44,86.75
+2026-06-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Eastern Cape,21,20,1,0,13483.14,12600.26,882.88,93.45
+2026-06-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Free State,12,11,1,0,6913.62,6521.16,392.46,94.32
+2026-06-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Gauteng,91,80,8,3,54577.36,48732.15,5845.21,89.29
+2026-06-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,KwaZulu-Natal,52,46,5,1,30839.42,27618.83,3220.59,89.56
+2026-06-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Limpopo,21,19,0,2,12455.8,12050.94,404.86,96.75
+2026-06-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Mpumalanga,10,10,0,0,6839.84,6839.84,0.0,100.0
+2026-06-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,North West,17,17,0,0,8890.18,8890.18,0.0,100.0
+2026-06-01,PART001,Ubuntu Credit,PRD002,Credit Life Plus,Credit Life,Western Cape,43,40,1,2,23900.38,22863.74,1036.64,95.66
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Eastern Cape,11,11,0,0,1112.5,1112.5,0.0,100.0
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Free State,15,14,0,1,1602.0,1579.75,22.25,98.61
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Gauteng,72,61,8,3,8677.5,7631.75,1045.75,87.95
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,KwaZulu-Natal,32,32,0,0,3693.5,3693.5,0.0,100.0
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Limpopo,14,11,2,1,1691.0,1357.25,333.75,80.26
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Mpumalanga,20,18,1,1,2047.0,1891.25,155.75,92.39
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,North West,11,11,0,0,1157.0,1157.0,0.0,100.0
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD003,Retail funeral,Funeral,Western Cape,43,40,3,0,4939.5,4672.5,267.0,94.59
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Eastern Cape,15,14,1,0,1564.5,1415.5,149.0,90.48
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Free State,15,14,1,0,1192.0,1154.75,37.25,96.88
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Gauteng,58,55,2,1,5177.75,4972.87,204.88,96.04
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,KwaZulu-Natal,25,22,2,1,2123.25,1806.63,316.62,85.09
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Limpopo,16,16,0,0,1601.75,1601.75,0.0,100.0
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Mpumalanga,7,7,0,0,521.5,521.5,0.0,100.0
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,North West,10,10,0,0,521.5,521.5,0.0,100.0
+2026-06-01,PART002,Mzanzi Retail Fin.,PRD004,Family Funeral Plus,Funeral,Western Cape,24,21,3,0,2458.5,2086.0,372.5,84.85
+2026-06-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Eastern Cape,16,16,0,0,4909.85,4909.85,0.0,100.0
+2026-06-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Free State,10,9,1,0,3342.35,3131.15,211.2,93.68
+2026-06-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Gauteng,67,60,5,2,23070.3,21311.67,1758.63,92.38
+2026-06-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,KwaZulu-Natal,29,26,2,1,11152.9,10285.83,867.07,92.23
+2026-06-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Limpopo,16,15,1,0,6490.55,5972.45,518.1,92.02
+2026-06-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Mpumalanga,7,6,1,0,2196.7,1797.4,399.3,81.82
+2026-06-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,North West,13,11,2,0,4448.95,3674.0,774.95,82.58
+2026-06-01,PART003,Lighthouse Loans,PRD005,Loan Protection,Credit Life,Western Cape,43,41,1,1,14071.2,13670.94,400.26,97.16
+2026-06-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Eastern Cape,15,13,0,2,13328.7,12858.12,470.58,96.47
+2026-06-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Free State,14,14,0,0,13445.52,13445.52,0.0,100.0
+2026-06-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Gauteng,59,53,2,4,50367.9,46465.98,3901.92,92.25
+2026-06-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,KwaZulu-Natal,25,22,2,1,21828.18,19559.1,2269.08,89.6
+2026-06-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Limpopo,18,18,0,0,14361.6,14361.6,0.0,100.0
+2026-06-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Mpumalanga,18,18,0,0,14682.36,14682.36,0.0,100.0
+2026-06-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,North West,13,12,1,0,12885.84,12229.14,656.7,94.9
+2026-06-01,PART003,Lighthouse Loans,PRD006,Loan Protection Plus,Credit Life,Western Cape,29,27,2,0,23851.08,22295.46,1555.62,93.48
+2026-06-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Eastern Cape,18,17,0,1,10572.24,10277.26,294.98,97.21
+2026-06-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Free State,10,9,0,1,6793.85,6587.56,206.29,96.96
+2026-06-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Gauteng,93,82,10,1,56140.77,50990.63,5150.14,90.83
+2026-06-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,KwaZulu-Natal,39,37,2,0,24081.54,22581.65,1499.89,93.77
+2026-06-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Limpopo,18,16,1,1,10609.48,10174.85,434.63,95.9
+2026-06-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Mpumalanga,17,17,0,0,10181.71,10181.71,0.0,100.0
+2026-06-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,North West,15,14,1,0,7974.26,7109.41,864.85,89.15
+2026-06-01,PART004,Khula Bank,PRD007,Bank Credit Protect,Credit Life,Western Cape,48,43,4,1,29633.73,27339.55,2294.18,92.26
+2026-06-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Eastern Cape,20,20,0,0,2023.04,2023.04,0.0,100.0
+2026-06-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Free State,7,7,0,0,793.34,793.34,0.0,100.0
+2026-06-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Gauteng,67,64,2,1,6227.67,5950.0,277.67,95.54
+2026-06-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,KwaZulu-Natal,39,34,4,1,4006.34,3550.17,456.17,88.61
+2026-06-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Limpopo,14,14,0,0,1467.68,1467.68,0.0,100.0
+2026-06-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Mpumalanga,13,13,0,0,1110.68,1110.68,0.0,100.0
+2026-06-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,North West,16,15,1,0,1586.68,1507.35,79.33,95.0
+2026-06-01,PART004,Khula Bank,PRD008,Bank Funeral,Funeral,Western Cape,39,36,2,1,3213.0,2994.83,218.17,93.21
+2026-06-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Eastern Cape,10,10,0,0,7491.54,7491.54,0.0,100.0
+2026-06-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Free State,8,7,1,0,5938.8,5349.54,589.26,90.08
+2026-06-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Gauteng,67,58,6,3,54234.18,49053.79,5180.39,90.45
+2026-06-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,KwaZulu-Natal,24,23,1,0,15704.22,14500.08,1204.14,92.33
+2026-06-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Limpopo,16,16,0,0,12195.96,12195.96,0.0,100.0
+2026-06-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Mpumalanga,17,17,0,0,13759.62,13759.62,0.0,100.0
+2026-06-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,North West,10,9,1,0,8914.08,7712.88,1201.2,86.52
+2026-06-01,PART005,Nala Mobility Finance,PRD009,Vehicle Credit Protect,Credit Life,Western Cape,37,34,2,1,29683.08,27662.88,2020.2,93.19
+2026-06-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Eastern Cape,5,5,0,0,3337.25,3337.25,0.0,100.0
+2026-06-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Free State,9,8,0,1,5880.0,5502.53,377.47,93.58
+2026-06-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Gauteng,63,60,2,1,37887.85,36568.79,1319.06,96.52
+2026-06-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,KwaZulu-Natal,23,20,3,0,11812.5,10817.1,995.4,91.57
+2026-06-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Limpopo,11,11,0,0,6622.0,6622.0,0.0,100.0
+2026-06-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Mpumalanga,11,11,0,0,6596.8,6596.8,0.0,100.0
+2026-06-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,North West,9,8,0,1,5986.05,5709.9,276.15,95.39
+2026-06-01,PART005,Nala Mobility Finance,PRD010,Vehicle Disability Cover,Disability,Western Cape,38,38,0,0,18170.6,18170.6,0.0,100.0

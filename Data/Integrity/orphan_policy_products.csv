@@ -1,10 +1,10 @@
 policy_id,partner_id,product_id,inception_date,date_of_birth,gender,province,cover_amount,monthly_premium,policy_status,termination_date,source_file,load_timestamp,integrity_failure_reason
-POL000248,PART004,PRD999,2025-09-02,1976-09-02,M,Free State,75000.0,119.0,Active,,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
-POL000478,PART001,PRD999,2026-03-11,1985-03-11,F,Mpumalanga,30900.0,148.32,Active,,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
-POL000675,PART002,PRD999,2026-03-16,1963-03-16,F,North West,25000.0,37.25,Active,,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
-POL001111,PART002,PRD999,2025-11-22,2001-11-22,M,Limpopo,75000.0,111.75,Lapsed,2026-03-22,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
-POL001261,PART002,PRD999,2025-09-01,1963-09-01,F,Limpopo,75000.0,111.75,Cancelled,2026-03-01,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
-POL001692,PART002,PRD999,2025-09-14,2005-09-14,M,KwaZulu-Natal,75000.0,133.5,Active,,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
-POL001891,PART004,PRD999,2025-09-14,1989-09-14,M,North West,126100.0,617.89,Lapsed,2026-01-14,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
-POL001900,PART002,PRD999,2025-12-14,2002-12-14,M,Gauteng,50000.0,89.0,Active,,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
-POL001989,PART001,PRD999,2025-11-08,1998-11-08,F,Mpumalanga,70100.0,336.48,Active,,policies.csv,2026-09-03 13:30:17,Referenced product does not exist in source data
+POL000248,PART004,PRD999,2025-09-02,1976-09-02,M,Free State,75000.0,119.0,Active,,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data
+POL000478,PART001,PRD999,2026-03-11,1985-03-11,F,Mpumalanga,30900.0,148.32,Active,,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data
+POL000675,PART002,PRD999,2026-03-16,1963-03-16,F,North West,25000.0,37.25,Active,,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data
+POL001111,PART002,PRD999,2025-11-22,2001-11-22,M,Limpopo,75000.0,111.75,Lapsed,2026-03-22,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data
+POL001261,PART002,PRD999,2025-09-01,1963-09-01,F,Limpopo,75000.0,111.75,Cancelled,2026-03-01,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data
+POL001692,PART002,PRD999,2025-09-14,2005-09-14,M,KwaZulu-Natal,75000.0,133.5,Active,,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data
+POL001891,PART004,PRD999,2025-09-14,1989-09-14,M,North West,126100.0,617.89,Lapsed,2026-01-14,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data
+POL001900,PART002,PRD999,2025-12-14,2002-12-14,M,Gauteng,50000.0,89.0,Active,,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data
+POL001989,PART001,PRD999,2025-11-08,1998-11-08,F,Mpumalanga,70100.0,336.48,Active,,policies.csv,2026-09-11 13:41:51,Referenced product does not exist in source data

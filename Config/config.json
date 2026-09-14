@@ -1,0 +1,38 @@
+{
+    "project_name": "Data Engineering Portfolio Project 01",
+
+    "paths": {
+        "raw": "Data/Raw",
+        "bronze": "Data/Bronze",
+        "silver": "Data/Silver",
+        "gold": "Data/Gold",
+        "rejects": "Data/Rejects",
+        "integrity": "Data/Integrity",
+        "logs": "Logs",
+        "reports": "Reports"
+    },
+
+    "files": {
+        "partners": "partners.csv",
+        "products": "products.csv",
+        "policies": "policies.csv",
+        "premiums": "premiums.csv",
+        "claims": "claims.csv"
+    },
+
+    "outputs": {
+        "portfolio_summary": "portfolio_summary.csv",
+        "premiums_summary": "premiums_summary.csv",
+        "claims_summary": "claims_summary.csv",
+        "performance_summary": "performance_summary.csv",
+
+        "premium_dimension": "premium_performance_by_dimension.csv",
+        "claim_dimension": "claims_performance_by_dimension.csv",
+        "policy_dimension": "policy_performance_by_dimension.csv"
+    },
+
+    "logging": {
+        "file_name": "pipeline.log",
+        "level": "INFO"
+    }
+}

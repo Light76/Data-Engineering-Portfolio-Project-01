@@ -1,0 +1,18 @@
+claim_id,policy_id,claim_date,claim_type,claim_amount,claim_outcome,paid_amount,partner_id,partner_name,product_id,product_name,product_type,province,rejection_reason
+CLM000029,POL001642,2026-02-14,Retrenchment,30974.12,Paid,30974.12,,,,,,,policy_id not found in policies_clean.csv
+CLM000095,POL002192,2026-06-11,Disability,6465.8,Declined,0.0,,,,,,,policy_id not found in policies_clean.csv
+CLM000100,POL000046,2026-03-02,Death,21922.69,Paid,21922.69,,,,,,,policy_id not found in policies_clean.csv
+CLM000121,POL000650,2026-03-13,Death,44544.94,Paid,44544.94,,,,,,,policy_id not found in policies_clean.csv
+CLM000173,POL000461,2026-05-21,Death,38352.69,Paid,38352.69,,,,,,,policy_id not found in policies_clean.csv
+CLM000194,POL001950,2026-06-27,Disability,63720.07,Declined,0.0,,,,,,,policy_id not found in policies_clean.csv
+CLM000214,POL001861,2025-11-27,Disability,79736.64,Declined,0.0,,,,,,,policy_id not found in policies_clean.csv
+CLM000234,POL000613,2026-06-16,Death,41206.29,Paid,41206.29,,,,,,,policy_id not found in policies_clean.csv
+CLM000328,POL000836,2026-03-07,Disability,125234.61,Paid,125234.61,,,,,,,policy_id not found in policies_clean.csv
+CLM000361,POL002064,2026-05-14,Death,74808.16,Paid,74808.16,,,,,,,policy_id not found in policies_clean.csv
+CLM_BAD001,POL888001,2026-04-15,Death,50000.0,Paid,50000.0,,,,,,,policy_id not found in policies_clean.csv
+CLM_BAD002,POL888002,2026-04-15,Death,50000.0,Paid,50000.0,,,,,,,policy_id not found in policies_clean.csv
+CLM_BAD003,POL888003,2026-04-15,Death,50000.0,Paid,50000.0,,,,,,,policy_id not found in policies_clean.csv
+CLM_BAD004,POL888004,2026-04-15,Death,50000.0,Paid,50000.0,,,,,,,policy_id not found in policies_clean.csv
+CLM_BAD005,POL888005,2026-04-15,Death,50000.0,Paid,50000.0,,,,,,,policy_id not found in policies_clean.csv
+CLM_BAD006,POL888006,2026-04-15,Death,50000.0,Paid,50000.0,,,,,,,policy_id not found in policies_clean.csv
+CLM_BAD007,POL888007,2026-04-15,Death,50000.0,Paid,50000.0,,,,,,,policy_id not found in policies_clean.csv

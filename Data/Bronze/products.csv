@@ -1,11 +1,11 @@
 product_id,product_name,product_type,max_cover,rate_or_base_premium,partner_id,source_file,load_timestamp
-PRD001,Credit Life Basic,Credit Life,75000,0.0048,PART001,products.csv,2026-09-03 13:30:17
-PRD002,Credit Life Plus,Credit Life,150000,0.0062,PART001,products.csv,2026-09-03 13:30:17
-PRD003,Retail funeral,Funeral,50000,89.0,PART002,products.csv,2026-09-03 13:30:17
-PRD004,Family Funeral Plus,Funeral,100000,149.0,PART002,products.csv,2026-09-03 13:30:17
-PRD005,Loan Protection,Credit Life,100000,0.0055,PART003,products.csv,2026-09-03 13:30:17
-PRD006,Loan Protection Plus,Credit Life,200000,0.0066,PART003,products.csv,2026-09-03 13:30:17
-PRD007,Bank Credit Protect,Credit Life,200000,0.0049,PART004,products.csv,2026-09-03 13:30:17
-PRD008,Bank Funeral,Funeral,75000,119.0,PART999,products.csv,2026-09-03 13:30:17
-PRD009,Vehicle Credit Protect,Credit Life,300000,0.0042,PART005,products.csv,2026-09-03 13:30:17
-PRD010,Vehicle Disability Cover,Disability,250000,0.0035,PART005,products.csv,2026-09-03 13:30:17
+PRD001,Credit Life Basic,Credit Life,75000,0.0048,PART001,products.csv,2026-09-11 13:41:51
+PRD002,Credit Life Plus,Credit Life,150000,0.0062,PART001,products.csv,2026-09-11 13:41:51
+PRD003,Retail funeral,Funeral,50000,89.0,PART002,products.csv,2026-09-11 13:41:51
+PRD004,Family Funeral Plus,Funeral,100000,149.0,PART002,products.csv,2026-09-11 13:41:51
+PRD005,Loan Protection,Credit Life,100000,0.0055,PART003,products.csv,2026-09-11 13:41:51
+PRD006,Loan Protection Plus,Credit Life,200000,0.0066,PART003,products.csv,2026-09-11 13:41:51
+PRD007,Bank Credit Protect,Credit Life,200000,0.0049,PART004,products.csv,2026-09-11 13:41:51
+PRD008,Bank Funeral,Funeral,75000,119.0,PART999,products.csv,2026-09-11 13:41:51
+PRD009,Vehicle Credit Protect,Credit Life,300000,0.0042,PART005,products.csv,2026-09-11 13:41:51
+PRD010,Vehicle Disability Cover,Disability,250000,0.0035,PART005,products.csv,2026-09-11 13:41:51

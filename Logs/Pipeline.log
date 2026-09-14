@@ -1,0 +1,33 @@
+2026-09-11 13:34:37,855 | INFO | Logger test successful.
+2026-09-11 13:41:50,804 | INFO | Pipeline execution started.
+2026-09-11 13:41:50,804 | INFO | Starting: load_rawdata.py
+2026-09-11 13:41:51,698 | INFO | Completed: load_rawdata.py
+2026-09-11 13:41:51,698 | INFO | Starting: partners_silver.py
+2026-09-11 13:41:52,528 | INFO | Completed: partners_silver.py
+2026-09-11 13:41:52,528 | INFO | Starting: products_silver.py
+2026-09-11 13:41:53,276 | INFO | Completed: products_silver.py
+2026-09-11 13:41:53,276 | INFO | Starting: policies_silver.py
+2026-09-11 13:41:54,050 | INFO | Completed: policies_silver.py
+2026-09-11 13:41:54,056 | INFO | Starting: premiums_silver.py
+2026-09-11 13:41:54,803 | INFO | Completed: premiums_silver.py
+2026-09-11 13:41:54,805 | INFO | Starting: claims_silver.py
+2026-09-11 13:41:55,496 | INFO | Completed: claims_silver.py
+2026-09-11 13:41:55,496 | INFO | Starting: Data_quality.py
+2026-09-11 13:41:56,151 | INFO | Completed: Data_quality.py
+2026-09-11 13:41:56,152 | INFO | Starting: referential_integrity.py
+2026-09-11 13:41:57,033 | INFO | Completed: referential_integrity.py
+2026-09-11 13:41:57,033 | INFO | Starting: Portfolio_summary.py
+2026-09-11 13:41:57,711 | INFO | Completed: Portfolio_summary.py
+2026-09-11 13:41:57,715 | INFO | Starting: Premiums_summary.py
+2026-09-11 13:41:58,404 | INFO | Completed: Premiums_summary.py
+2026-09-11 13:41:58,404 | INFO | Starting: Claims_summary.py
+2026-09-11 13:41:59,169 | INFO | Completed: Claims_summary.py
+2026-09-11 13:41:59,173 | INFO | Starting: Performance_summary.py
+2026-09-11 13:41:59,996 | INFO | Completed: Performance_summary.py
+2026-09-11 13:41:59,996 | INFO | Starting: Premium_performance_dimension.py
+2026-09-11 13:42:01,037 | INFO | Completed: Premium_performance_dimension.py
+2026-09-11 13:42:01,037 | INFO | Starting: claim_performance_dimension.py
+2026-09-11 13:42:02,288 | INFO | Completed: claim_performance_dimension.py
+2026-09-11 13:42:02,290 | INFO | Starting: policy_performance_dimension.py
+2026-09-11 13:42:03,086 | INFO | Completed: policy_performance_dimension.py
+2026-09-11 13:42:03,086 | INFO | Pipeline execution completed.

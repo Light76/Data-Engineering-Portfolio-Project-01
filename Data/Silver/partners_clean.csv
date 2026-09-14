@@ -1,6 +1,6 @@
 partner_id,partner_name,partner_type,province,onboard_date,status,source_file,load_timestamp
-PART001,Ubuntu Credit,Credit Provider,Gauteng,2021-02-01,Active,partners.csv,2026-09-03 13:30:17
-PART002,Mzanzi Retail Fin.,Retail Credit,Western Cape,2022-06-15,Active,partners.csv,2026-09-03 13:30:17
-PART003,Lighthouse Loans,Microfinance,KwaZulu-Natal,2020-09-01,Active,partners.csv,2026-09-03 13:30:17
-PART004,Khula Bank,Banking,Gauteng,2019-03-01,Active,partners.csv,2026-09-03 13:30:17
-PART005,Nala Mobility Finance,Vehicle Finance,Gauteng,2023-01-10,Active,partners.csv,2026-09-03 13:30:17
+PART001,Ubuntu Credit,Credit Provider,Gauteng,2021-02-01,Active,partners.csv,2026-09-11 13:41:51
+PART002,Mzanzi Retail Fin.,Retail Credit,Western Cape,2022-06-15,Active,partners.csv,2026-09-11 13:41:51
+PART003,Lighthouse Loans,Microfinance,KwaZulu-Natal,2020-09-01,Active,partners.csv,2026-09-11 13:41:51
+PART004,Khula Bank,Banking,Gauteng,2019-03-01,Active,partners.csv,2026-09-11 13:41:51
+PART005,Nala Mobility Finance,Vehicle Finance,Gauteng,2023-01-10,Active,partners.csv,2026-09-11 13:41:51

@@ -1,6 +1,6 @@
 source_file,records_loaded,load_timestamp,status
-claims.csv,407,2026-09-03 13:30:17,SUCCESS
-partners.csv,5,2026-09-03 13:30:17,SUCCESS
-policies.csv,2418,2026-09-03 13:30:17,SUCCESS
-premiums.csv,17332,2026-09-03 13:30:17,SUCCESS
-products.csv,10,2026-09-03 13:30:17,SUCCESS
+claims.csv,407,2026-09-11 13:41:51,SUCCESS
+partners.csv,5,2026-09-11 13:41:51,SUCCESS
+policies.csv,2418,2026-09-11 13:41:51,SUCCESS
+premiums.csv,17332,2026-09-11 13:41:51,SUCCESS
+products.csv,10,2026-09-11 13:41:51,SUCCESS

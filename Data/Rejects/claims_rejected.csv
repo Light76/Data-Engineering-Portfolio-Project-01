@@ -1,7 +1,7 @@
 claim_id,policy_id,claim_date,claim_type,claim_amount,claim_outcome,paid_amount,source_file,load_timestamp,rejection_reason
-CLM000004,POL002288,2026-05-21,Death,98673.37,Approved,98673.37,claims.csv,2026-09-03 13:30:17,Invalid Claim Outcome; 
-CLM000018,POL002172,2026-04-10,Disability,57889.81,Approved,57889.81,claims.csv,2026-09-03 13:30:17,Invalid Claim Outcome; 
-CLM000070,POL000541,2026-03-21,Death,59161.19,Approved,59161.19,claims.csv,2026-09-03 13:30:17,Invalid Claim Outcome; 
-CLM000148,POL002066,2026-03-10,Retrenchment,23708.07,Approved,23708.07,claims.csv,2026-09-03 13:30:17,Invalid Claim Outcome; 
-CLM000223,POL000599,2026-01-17,Death,44300.44,Approved,44300.44,claims.csv,2026-09-03 13:30:17,Invalid Claim Outcome; 
-CLM000337,POL000068,2025-12-14,Death,68979.46,Approved,68979.46,claims.csv,2026-09-03 13:30:17,Invalid Claim Outcome; 
+CLM000004,POL002288,2026-05-21,Death,98673.37,Approved,98673.37,claims.csv,2026-09-11 13:41:51,Invalid Claim Outcome; 
+CLM000018,POL002172,2026-04-10,Disability,57889.81,Approved,57889.81,claims.csv,2026-09-11 13:41:51,Invalid Claim Outcome; 
+CLM000070,POL000541,2026-03-21,Death,59161.19,Approved,59161.19,claims.csv,2026-09-11 13:41:51,Invalid Claim Outcome; 
+CLM000148,POL002066,2026-03-10,Retrenchment,23708.07,Approved,23708.07,claims.csv,2026-09-11 13:41:51,Invalid Claim Outcome; 
+CLM000223,POL000599,2026-01-17,Death,44300.44,Approved,44300.44,claims.csv,2026-09-11 13:41:51,Invalid Claim Outcome; 
+CLM000337,POL000068,2025-12-14,Death,68979.46,Approved,68979.46,claims.csv,2026-09-11 13:41:51,Invalid Claim Outcome; 

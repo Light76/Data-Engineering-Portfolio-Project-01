@@ -1,0 +1,10 @@
+policy_id,partner_id,partner_name,product_id,product_name,product_type,inception_date,province,cover_amount,monthly_premium,policy_status,rejection_reason
+POL000248,PART004,Khula Bank,PRD999,,,2025-09-02,Free State,75000.0,119.0,Active,product_id not found in products_clean.csv
+POL000478,PART001,Ubuntu Credit,PRD999,,,2026-03-11,Mpumalanga,30900.0,148.32,Active,product_id not found in products_clean.csv
+POL000675,PART002,Mzanzi Retail Fin.,PRD999,,,2026-03-16,North West,25000.0,37.25,Active,product_id not found in products_clean.csv
+POL001111,PART002,Mzanzi Retail Fin.,PRD999,,,2025-11-22,Limpopo,75000.0,111.75,Lapsed,product_id not found in products_clean.csv
+POL001261,PART002,Mzanzi Retail Fin.,PRD999,,,2025-09-01,Limpopo,75000.0,111.75,Cancelled,product_id not found in products_clean.csv
+POL001692,PART002,Mzanzi Retail Fin.,PRD999,,,2025-09-14,KwaZulu-Natal,75000.0,133.5,Active,product_id not found in products_clean.csv
+POL001891,PART004,Khula Bank,PRD999,,,2025-09-14,North West,126100.0,617.89,Lapsed,product_id not found in products_clean.csv
+POL001900,PART002,Mzanzi Retail Fin.,PRD999,,,2025-12-14,Gauteng,50000.0,89.0,Active,product_id not found in products_clean.csv
+POL001989,PART001,Ubuntu Credit,PRD999,,,2025-11-08,Mpumalanga,70100.0,336.48,Active,product_id not found in products_clean.csv
